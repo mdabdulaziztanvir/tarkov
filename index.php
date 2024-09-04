@@ -80,7 +80,7 @@ commented
 <?php include('./home/allowAds.php'); ?> 
 <div class="common-bg-image inside_body"></div>
 
-    <!-- main grid -->
+    <!-- main grid start -->
     <?php include('./home/ads.php'); ?> 
 <div class="all_elements" >
     <?php include('./home/navbar.php'); ?> 
@@ -107,14 +107,16 @@ commented
     <!-- stream link here -->
     <?php include('./home/streamLinks.php'); ?> 
 
-    </div>
-
-    
     <?php include('./footer-bottom-text/items-tracker.php'); ?> 
    
 
    <?php include('./home/footer.php'); ?> 
 
+
+    </div>
+
+    
+    <!-- age ekhane chilo footer bottom/items tracker text and footer.php -->
     
  
     <script>

@@ -12,7 +12,7 @@ body {
   max-width: 1920px;
   margin: 0 auto;
 }
-.Pages_name{
+.Pages_name {
   font-size: 2rem;
   color: #c1aa89;
   text-transform: uppercase;
@@ -46,6 +46,16 @@ body {
   transition: 0.2s ease-in-out;
   line-height: 25px;
 }
+/* navbar background color start */
+.nav--background {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 7;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* navbar background color end */
 #cross_button:hover {
   color: #917e65;
   border: 1px solid #917e65;
@@ -77,9 +87,9 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  backdrop-filter: blur(10px); 
-  z-index: 98; 
-  display: none; 
+  backdrop-filter: blur(10px);
+  z-index: 98;
+  display: none;
 }
 
 .ads_body_container {
@@ -125,7 +135,7 @@ h2 {
   overflow: hidden;
   display: none;
 }
-.allow_sda_headpart{
+.allow_sda_headpart {
   background-color: #161616;
   box-shadow: 0 14px 15px -2px rgba(61, 60, 60, 0.9);
 }
@@ -146,7 +156,7 @@ h2 {
 }
 .three_dots {
   height: 39px;
-  width:39px;
+  width: 39px;
   object-fit: contain;
   /* border: 1px solid red; */
   border: 1px solid rgba(167, 167, 167, 0.7);
@@ -162,7 +172,7 @@ h2 {
 .sda_three > p,
 .other > p {
   margin-bottom: 0;
-  margin-top: .4rem;
+  margin-top: 0.4rem;
 }
 .sda_one {
   border-bottom: 5px solid rgb(173, 133, 109);
@@ -182,34 +192,36 @@ h2 {
 .sda_three:hover,
 .other:hover {
   background-color: rgba(167, 167, 167, 0.3);
-  transition: .2s ease-in-out;
+  transition: 0.2s ease-in-out;
 }
-.sda_icons{
+.sda_icons {
   height: 25px;
   width: 25px;
   object-fit: contain;
 }
-.banner_sda{
+.banner_sda {
   width: 85%;
 }
 .sda_ol > li {
   margin-top: 1.25rem;
 }
-.sda_description{
+.sda_description {
   height: 350px;
 }
-#otherSda, #ublockOrigin, #sdaBP{
-display: none;
+#otherSda,
+#ublockOrigin,
+#sdaBP {
+  display: none;
 }
-.instruction_image_item_class{
+.instruction_image_item_class {
   width: 100%;
   max-height: 350px;
   object-fit: contain;
 }
-.offcanvas{
+.offcanvas {
   z-index: 97 !important;
 }
-.offcanvas-backdrop{
+.offcanvas-backdrop {
   z-index: 96 !important;
 }
 
@@ -308,8 +320,6 @@ display: none;
   height: 1.3rem;
   background-color: #111111;
 
-  
-
   position: relative;
 }
 .lomba_faka_jaiga {
@@ -320,9 +330,9 @@ display: none;
   top: 15%;
   margin-top: 1.1rem;
   background-color: #161616;
-  
+
   z-index: -1;
-  
+
   display: none;
 }
 .lomba_faka_jaiga_left {
@@ -392,6 +402,9 @@ display: none;
   height: auto;
   object-fit: cover;
 } */
+.Kunai_icon {
+  height: 118px;
+}
 
 /* navbar start */
 .offcanvas.offcanvas-start {
@@ -763,21 +776,21 @@ display: none;
     height: 29px;
     width: 29px;
   }
-  .sda_description{
+  .sda_description {
     overflow: scroll;
   }
   .sda_one,
   .sda_two,
   .sda_three,
   .other {
-  cursor: pointer;
-  height: 80px;
-  width: 80px;
-}
-/* allow ads mobile end */
-.Pages_name{
-  font-size: .85rem;
-}
+    cursor: pointer;
+    height: 80px;
+    width: 80px;
+  }
+  /* allow ads mobile end */
+  .Pages_name {
+    font-size: 0.85rem;
+  }
   .vendor-image {
     display: none;
   }

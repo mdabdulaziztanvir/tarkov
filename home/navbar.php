@@ -1,8 +1,9 @@
-<div class="d-flex justify-content-between align-items-center my-2">
+<div class="nav--background d-flex justify-content-between align-items-center my-2">
   <div class="d-flex gap-4 align-items-center">
     <?php include('menu.php'); ?> 
     <small class="Pages_name " >Items Tracker</small>
   </div>
+ 
  <!-- Modal -->
   <!-- Button trigger modal -->
   <div class="d-flex">
@@ -14,7 +15,7 @@
     </button>
 
   </div>
-
+  </div>
 <div class="modal onceAMonth fade "  id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl ">
     <div class="modal-content">
@@ -33,7 +34,7 @@
     </div>
   </div>
 </div>
-</div>
+
 
 
 

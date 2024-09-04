@@ -150,6 +150,16 @@
                         <img loading="lazy" src="./files/Fake_Mustache_icon.webp?v=1.6" class="col_eight_images" alt="mustache">
                     </div>
                 </div>
+                <!-- added new 1 items start -->
+                <div  class="outer__box">
+                    <p class="filler">
+                    <span class="aaa">1</span>              </p>
+                    <div  class="inner__box d-flex align-items-center justify-content-center">
+                        <img loading="lazy" src="./files/ViibiinSneaker_Icon.webp?v=1.6" class="col_eight_images" alt="ViibiinSneaker_Icon">
+                    </div>
+                </div>
+                <!-- added new 1 items end -->
+
             </div>
 
             <!-- second row of kappa items -->
@@ -205,13 +215,13 @@
                         <img loading="lazy" src="./files/DDGMayoIcon.webp?v=1.6" class="col_eight_images" alt="mayo">
                     </div>
                 </div>
-                <div  class="outer__box">
+                <!-- <div  class="outer__box">
                     <p class="filler">
                     <span class="aaa">1</span>              </p>
                     <div  class="inner__box d-flex align-items-center justify-content-center">
                         <img loading="lazy" src="./files/Epsilon_icon.webp?v=1.6" class="col_eight_images" alt="epsilon">
                     </div>
-                </div>
+                </div> -->
                 <div  class="outer__box">
                     <p class="filler">
                     <span class="aaa">1</span>              </p>
@@ -282,6 +292,22 @@
                         <img loading="lazy" src="./files/BakeEzy_Cook_Book_icon.webp?v=1.6" class="col_eight_images" alt="bakeezy">
                     </div>
                 </div>
+                <!-- added new 2 items start -->
+                <div  class="outer__box">
+                    <p class="filler">
+                    <span class="aaa">1</span>              </p>
+                    <div  class="inner__box d-flex align-items-center justify-content-center">
+                        <img loading="lazy" src="./files/Inseq_icon.webp?v=1.6" class="col_eight_images" alt="Inseq_icon">
+                    </div>
+                </div>
+                <div  class="outer__box">
+                    <p class="filler">
+                    <span class="aaa">1</span>              </p>
+                    <div  class="inner__box d-flex align-items-center justify-content-center">
+                        <img loading="lazy" src="./files/Kunai_icon.webp?v=1.6" class="col_eight_images Kunai_icon" alt="Kunai_icon">
+                    </div>
+                </div>
+                <!-- added new 2 items end -->
             </div>
         </div>
     </div>    
