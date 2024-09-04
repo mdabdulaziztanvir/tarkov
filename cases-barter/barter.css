@@ -1,0 +1,86 @@
+body{
+    color: rgb(225, 220, 220);
+}
+.barter-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.case-items {
+    gap: 1rem;
+}
+.weapon-case{
+    background-color: #222222;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+p{
+    margin: 0;
+    padding: 0;
+    color: #c1aa89;
+}
+.thiccP {
+    color: red;
+}
+.greaterThan{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: rgb(225, 220, 220);
+}
+.item-number{
+    background-color: #111111;
+    border: .5px solid #c1aa89;
+    border-radius: 5px;
+    color: #c1aa89;
+}
+
+.item-result{
+    background-color: #111111;
+    border: .5px solid #c1aa89;
+    height: 28px;
+    color: #c1aa89;
+    border-radius: 8px;
+    font-weight: 900;
+}
+.item img{
+    width:90px;
+    height: auto;
+}
+
+
+.thicc-item-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+.greaterThanDown{
+    display: none;
+}
+.red_bold{
+    font-weight: bolder;
+    color: red;
+    font-size: 2.5rem ;
+}
+@media (max-width: 815px) {
+
+    .barter-grid{
+    grid-template-columns: 1fr;
+    }
+    .thicc-item-grid{
+        grid-template-columns: 1fr;
+    }
+    .greaterThan{
+        display: none;
+    }
+    .item-result{
+        margin-inline: auto;
+        width: 60%;
+    }
+    .red_bold{
+        font-size: 1.5rem;
+        text-align: center;
+        margin: 0 !important;
+    }
+}

@@ -1,0 +1,96 @@
+
+  img {
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  .tank_battery{
+    width: 86%;
+  }
+  
+  
+  .knife_image {
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    width: 100%;
+    height: 50px;
+    object-fit: cover;
+  }
+  .special_img_col_six_bag {
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    width: 100%;
+    height: 90px;
+    object-fit: cover;
+  }
+  .caticon {
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    width: 100%;
+    height: 130px;
+    object-fit: cover;
+  }
+  /* columns 2 images */
+  .col_two_image {
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    width: 90%;
+    height: auto;
+    object-fit: cover;
+  }
+  .title_image {
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    width: 40%;
+    height: auto;
+    object-fit: cover;
+    /* border: 2px solid red; */
+  }
+  .kappa_for_mobile{
+    height: 100%;
+    width: 75px;
+    object-fit: contain;
+  }
+  .mobile_title_image{
+    height: 100%;
+    width: 100px;
+    object-fit: contain;
+  }
+  .twitch_acejimbo_logo {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+  }
+  .title_image_kappa_large{
+    width:4vw;
+    height: auto;
+    
+    /* border: 2px solid white; */
+  }
+

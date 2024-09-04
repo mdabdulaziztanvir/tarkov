@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600&display=swap");
+
+body {
+  background-color: #111111;
+
+  font-family: "Inconsolata", monospace;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  color: rgb(225, 220, 220);
+}
+.sec_col_pad {
+    padding-inline: 0 !important;
+    /* margin: 0; */
+}
+tr td a{
+    color: rgb(58, 165, 236);
+    transition: all .4s;
+}
+tr td a:hover{
+    color: aliceblue;
+}
+.bitcoin_note h4 {
+    color: rgb(225, 220, 220);
+
+}
+.bitcoin_grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    gap: 2rem;
+
+}
+
+td input{
+    background-color: #111111;
+    border: .5px solid #c1aa89;
+    border-radius: 5px;
+    color: #c1aa89;
+}
+.middle_col tr td:nth-child(1) {
+   width: 100px;
+    
+}
+
+.level_background {
+    background-color: #c1aa89;
+}
+.acejimbo_logo {
+  max-height: 300px;
+  max-width: 300px;
+  object-fit: contain;
+}
+
+@media (max-width: 810px) {
+    .bitcoin_grid {
+        grid-template-columns: 1fr;
+    }
+    .table > :not(caption) > * > * {
+        padding:  0;
+    }
+    td input{
+        width: 80px;
+    }
+    td, th{
+        font-size: 10px;
+    }
+    h4{
+        font-size: 1rem;
+    }
+    .acejimbo_logo{
+        margin-inline: auto;
+    }
+}

@@ -1,0 +1,82 @@
+body {
+  color: rgb(210, 210, 210);
+}
+.hideout__play__ground {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr 1fr;
+  gap: 1rem;
+  background-image: url(../files/hideout/EFT\ Hideout\ Requirements\ Background\ Template.png?v=1.6);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.margin-top-hideout {
+  margin-top: 1rem !important;
+}
+img {
+  user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  width: 80%;
+  height: auto;
+}
+.hide__outer__box {
+  background-color: #111111;
+  border: 0.8px solid #c1aa89;
+  padding: 7.5px;
+  overflow: hidden;
+  cursor: pointer;
+  position: relative;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+.col-three-sub-cols {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.hide__inner__box {
+  background-color: #111111;
+  border: 0.8px solid #c1aa89;
+  width: 100%;
+  height: 100%;
+  user-select: none;
+}
+.hide__filler {
+  position: absolute;
+  background-color: #111111;
+  top: 0;
+  left: 0;
+  padding: 0;
+  color: rgb(210, 210, 210);
+  font-size: 0.75rem;
+}
+.border-div-hide {
+  border: 1px solid #c1aa89;
+  border-radius: 5px;
+  padding: 10px;
+}
+.hideout-imp-text {
+  color: red;
+}
+
+@media (max-width: 815px) {
+  .hideout__play__ground {
+    grid-template-columns: 1fr;
+  }
+  .hideout__play__ground {
+    background-image: none;
+  }
+  .col-three-sub-cols {
+    grid-template-columns: 1fr;
+  }
+}

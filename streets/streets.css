@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600&display=swap");
+
+body {
+  /* background-color: #111111; */
+
+  font-family: "Inconsolata", monospace;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  color: rgb(225, 220, 220);
+}
+.streets-bg-image {
+  background-image: url(https://api.tarkovtracker.ca/background-images/Streets.png?v=1.1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  position: fixed;
+  min-height: 100vh;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.sec_col_pad {
+  padding-inline: 0 !important;
+  /* margin: 0; */
+}
+tr td a {
+  /* color: rgb(58, 165, 236); */
+  color: aliceblue;
+  transition: all 0.4s;
+}
+tr td a:hover {
+  color: rgb(58, 165, 236);
+}
+.streets_image {
+  object-fit: contain;
+  width: 100%;
+  height: 98svh;
+}
+.street_symbol_color {
+  transition: all 0.7s;
+  cursor: pointer;
+}
+.acejimbo_logo {
+  height: 300px;
+  width: 300px;
+  object-fit: contain;
+}
+
+.street_key {
+  margin-right: 9.5rem;
+}
+
+@media (max-width: 815px) {
+  a,
+  th,
+  td {
+    font-size: 10px;
+  }
+  th,
+  td {
+    padding: 0 !important;
+    width: 3ch;
+  }
+  .streets_image {
+    height: auto;
+  }
+  .street_key {
+    margin-right: 0;
+  }
+}
