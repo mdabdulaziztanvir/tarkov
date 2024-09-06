@@ -258,4 +258,34 @@
         <!-- one line end -->  
     </div>
     <!-- box - 4 end -->
+
+    <!-- box - 4 Injury Treatment start -->
+    <div class="border-div-hide mt-3">
+        <div class="text-center my-3">
+            <h4>Injury Treatment</h4>
+        </div>
+         <!-- one line start -->
+         <div class="d-flex justify-content-evenly mb-1">
+            <div  class="hide__outer__box">
+                <p class="hide__filler">
+                    <span class="h__aaa">2</span>  
+                </p>
+                <div  class="hide__inner__box d-flex align-items-center justify-content-center">
+                    <img loading="lazy" src="../files/hideout/EFT_Aseptic-Bandage_Icon.webp?v=1.6" class="" alt="EFT_Aseptic-Bandage_Icon">
+                </div>
+            </div>
+
+            <div  class="hide__outer__box">
+                <p class="hide__filler">
+                    <span class="h__aaa">5</span>  
+                </p>
+                <div  class="hide__inner__box d-flex align-items-center justify-content-center">
+                    <img loading="lazy" src="../files/hideout/TournIcon.webp?v=1.6" class="" alt="TournIcon">
+                </div>
+            </div>
+        </div>
+        <!-- one line end -->  
+    </div>
+    <!-- box - 4 Injury Treatment end -->
+
 </div>

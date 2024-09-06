@@ -97,6 +97,75 @@
         <!-- one line end -->
     </div>
     <!-- box - 3 end -->
-    <h4 class="text-center m-3" > Created with MVGGUS help </h4>
+<!-- box four start -->
+    
+
+<div class="border-div-hide mt-3 fixed-height-col-four">
+        <div class="text-center my-3">
+            <h4>Cultist Sacrifice</h4>
+        </div>
+
+        <!-- first line start -->
+        <div class="d-flex justify-content-evenly mb-1">
+            <div  class="hide__outer__box">
+                <p class="hide__filler">
+                    <span class="h__aaa">5</span>  
+                </p>
+                <div  class="hide__inner__box d-flex align-items-center justify-content-center">
+                    <img loading="lazy" src="../files/hideout/CultistCircle/Bulb_icon.webp?v=1.6" class="" alt="FireKlean_icon">
+                </div>
+            </div>
+
+            <div  class="hide__outer__box">
+                <p class="hide__filler">
+                    <span class="h__aaa">3</span>  
+                </p>
+                <div  class="hide__inner__box d-flex align-items-center justify-content-center">
+                    <img loading="lazy" src="../files/hideout/CultistCircle/Can_of_salt_icon.webp?v=1.6" class="" alt="Can_of_salt_icon">
+                </div>
+            </div>
+            <div  class="hide__outer__box">
+                <p class="hide__filler">
+                    <span class="h__aaa">1</span>  
+                </p>
+                <div  class="hide__inner__box d-flex align-items-center justify-content-center">
+                    <img loading="lazy" src="../files/hideout/CultistCircle/Construction_Measuring_Tape_Icon.webp?v=1.6" class="" alt="Construction_Measuring_Tape_Icon">
+                </div>
+            </div>
+        </div>
+        <!-- first line end -->
+<!-- swcond line start -->
+
+ <div class="d-flex justify-content-evenly mb-1">
+            <div  class="hide__outer__box">
+                <p class="hide__filler">
+                    <span class="h__aaa">1</span>  
+                </p>
+                <div  class="hide__inner__box d-flex align-items-center justify-content-center">
+                    <img loading="lazy" src="../files/hideout/CultistCircle/Paidicon.webp?v=1.6" class="" alt="Paidicon">
+                </div>
+            </div>
+
+            <div  class="hide__outer__box">
+                <p class="hide__filler">
+                    <span class="h__aaa">1</span>  
+                </p>
+                <div  class="hide__inner__box d-flex align-items-center justify-content-center">
+                    <img loading="lazy" src="../files/hideout/CultistCircle/SurvL_Icon.webp?v=1.6" class="" alt="SurvL_Icon">
+                </div>
+            </div>
+            <div  class="hide__outer__box">
+                <p class="hide__filler">
+                    <span class="h__aaa">1</span>  
+                </p>
+                <div  class="hide__inner__box d-flex align-items-center justify-content-center">
+                    <img loading="lazy" src="../files/hideout/CultistCircle/WIFI_Camera_Icon.webp?v=1.6" class="" alt="WIFI_Camera_Icon">
+                </div>
+            </div>
+</div>
+<!-- second line end -->
+<!-- box four end -->
+
 
 </div>
+<h4 class="text-center m-3" > Created with MVGGUS help </h4>

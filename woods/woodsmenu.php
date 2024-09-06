@@ -1,4 +1,4 @@
-<div class="d-flex justify-content-between align-items-center my-2">
+<div class="nav--background d-flex justify-content-between align-items-center my-2">
   <!--btn offcanvas -->
  <div class="d-flex gap-1 gap-md-4 align-items-center">
   <button class="btn navbar_button mt-2 mb-1 ms-2 ms-md-4" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">
@@ -16,6 +16,7 @@
     <button type="button" class="btn me-2 me-md-5 d-flex justify-content-center align-items-center instructions" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
     How to use the page
     </button>
+  </div>
   </div>
 
 <!-- offcanvas start-->
@@ -107,4 +108,4 @@
     </div>
   </div>
   <!-- instruction modal end -->
-</div>
+

@@ -1,4 +1,4 @@
-<div class="d-flex justify-content-between align-items-center my-2">
+<div class="nav--background d-flex justify-content-between align-items-center my-2">
 
   <!--btn offcanvas -->
  <div class="d-flex gap-1 gap-md-4 align-items-center">
@@ -15,6 +15,7 @@
     How to use the page
     </button>
   </div>
+</div>
 <!-- offcanvas start-->
   <div class="offcanvas offcanvas-start" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
     <div class="offcanvas-header">
@@ -112,5 +113,5 @@
 </div>
   <!-- instruction modal end -->
 
-</div>
+
 
