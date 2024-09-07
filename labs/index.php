@@ -43,7 +43,7 @@
                 <img loading="lazy" src="./items/labs.png?v=1.6" class=" img-fluid rounded" alt="lab image">
                 <div class="text-end my-2">
                     <a href="./keys/">
-                    <button class="key_button" >Keys</button>
+                    <button data-en="Keys" data-fr="clés" class="key_button" >Keys</button>
                     </a>
                 </div>
 
@@ -51,74 +51,74 @@
             </div>
             <!-- 2nd col -->
             <div class="col-md-12 col-lg-3 col-xs col-sm-12  sec_col_pad">
-            <small class="not_needed_title bg-dark note_color" >[<span class="orange_bg" > ORANGE </span> = NOT needed for KAPPA]</small>
+            <small class="not_needed_title bg-dark note_color" >[<span class="orange_bg lang-change-js" data-en="ORANGE" data-fr="ORANGE" > ORANGE </span>  = <span class="lang-change-js" data-en="NOT needed for KAPPA " data-fr="PAS nécessaire pour KAPPA" > NOT needed for KAPPA </span>]</small>
             <br>
-            <small class="not_needed_title bg-dark note_color" >[<span class="blue_bg" > BLUE </span> = Lightkeeper's Quests, Not needed for Kappa]</small>
+            <small class="not_needed_title bg-dark note_color" >[<span class="blue_bg lang-change-js" data-en="BLUE" data-fr="BLEU" > BLUE </span> = <span class="lang-change-js" data-en="Lightkeeper's Quests, Not needed for Kappa" data-fr="Quêtes du gardien de phare, pas nécessaires pour Kappa" > Lightkeeper's Quests, Not needed for Kappa </span> ]</small>
                 <div class="factory_table">
                     <table class="table table-dark table-bordered text-center">
                         <thead>
                             <tr>
-                            <th>Quest</th>
-                            <th>Symbol</th>
-                            <th>Keys</th>
-                            <th>NOTES</th>
+                            <th class="lang-change-js" data-en="Quest" data-fr="Quête" >Quest</th>
+                            <th class="lang-change-js" data-en="Symbol" data-fr="Symbole" >Symbol</th>
+                            <th class="lang-change-js" data-en="Keys" data-fr="Clés" >Keys</th>
+                            <th class="lang-change-js" data-en="NOTES" data-fr="NOTES" >NOTES</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="" ><a href="https://www.youtube.com/watch?v=dbJ32nZSWZs&t=58s&ab_channel=Affliktid" target="_blank">TerraGroup Employee</a></td>
-                                <td class="labs_symbol_color">A</td>
-                                <td>Blue marking</td>
-                                <td>USB stick plug into the PC</td>
+                                <td data-en="TerraGroup Employee" data-fr="Employé de TerraGroup" class=" lang-change-js " ><a href="https://www.youtube.com/watch?v=dbJ32nZSWZs&t=58s&ab_channel=Affliktid" target="_blank">TerraGroup Employee</a></td>
+                                <td data-en="A" data-fr="A" class=" lang-change-js labs_symbol_color">A</td>
+                                <td data-en="Blue marking" data-fr="Marquage bleu" class="lang-change-js" >Blue marking</td>
+                                <td data-en="USB stick plug into the PC" data-fr="Brancher la clé USB sur le PC" class="lang-change-js" >USB stick plug into the PC</td>
                             </tr>
                             <tr>
-                                <td class="quest_not_needed_blue" > <a href="https://www.youtube.com/watch?v=J15QzLm6maI&ab_channel=Prognonsisnegatv" target="_blank">Following the Bread Crumbs</a></td>
-                                <td class="labs_symbol_color">B</td>
-                                <td></td>
-                                <td>Watch the video</td>
+                                <td data-en="Following the Bread Crumbs" data-fr="En suivant les miettes de pain" class="quest_not_needed_blue lang-change-js " > <a href="https://www.youtube.com/watch?v=J15QzLm6maI&ab_channel=Prognonsisnegatv" target="_blank">Following the Bread Crumbs</a></td>
+                                <td data-en="B" data-fr="B" class="labs_symbol_color lang-change-js ">B</td>
+                                <td data-en="" data-fr="" class="lang-change-js" ></td>
+                                <td data-en="Watch the video" data-fr="Regardez la vidéo" class="lang-change-js" >Watch the video</td>
                             </tr>
                             <tr>
-                                <td class="" >Exits</a></td>
-                                <td class="labs_symbol_color">Sector B</td>
-                                <td>Hangar Switch</td>
-                                <td>Hangar Door </td>
+                                <td data-en="Exits" data-fr="Sorties" class=" lang-change-js " >Exits</a></td>
+                                <td data-en="Sector B" data-fr="Sector B" class="labs_symbol_color lang-change-js ">Sector B</td>
+                                <td data-en="Hangar Switch" data-fr="Interrupteur de hangar" class="lang-change-js" >Hangar Switch</td>
+                                <td data-en="Hangar Door " data-fr="Porte du hangar" class="lang-change-js" >Hangar Door </td>
                             </tr>
                             <tr>
-                                <td class="" >Exits</a></td>
-                                <td class="labs_symbol_color">Sector G</td>
-                                <td>Cargo switch</td>
-                                <td>Elevator 2nd floor </td>
+                                <td data-en="Exits" data-fr="Sorties" class=" lang-change-js " >Exits</a></td>
+                                <td data-en="Sector G" data-fr="Sector G" class="labs_symbol_color lang-change-js ">Sector G</td>
+                                <td data-en="Cargo switch" data-fr="Interrupteur de chargement" class="lang-change-js" >Cargo switch</td>
+                                <td data-en="Elevator 2nd floor" data-fr="Ascenseur 2ème étage" class="lang-change-js" >Elevator 2nd floor </td>
                             </tr>
                           
                             <tr>
-                                <td class="" >Exits</a></td>
-                                <td class="labs_symbol_color">Sector O</td>
-                                <td>Medblock under Servers</td>
-                                <td>Elevator below Black Room </td>
+                                <td data-en="Exits" data-fr="Sorties" class=" lang-change-js " >Exits</a></td>
+                                <td data-en="Sector O" data-fr="Sector O" class="labs_symbol_color lang-change-js ">Sector O</td>
+                                <td data-en="Medblock under Servers" data-fr="Medblock sous Serveurs" class="lang-change-js" >Medblock under Servers</td>
+                                <td data-en="Elevator below Black Room " data-fr="Ascenseur sous la salle noire" class="lang-change-js" >Elevator below Black Room </td>
                             </tr>
                             <tr>
-                                <td class="" >Exits</a></td>
-                                <td class="labs_symbol_color">Sector R</td>
-                                <td>Switch Basement close to big pipe</td>
-                                <td>Basement Elevator</td>
+                                <td data-en="Exits" data-fr="Sorties" class=" lang-change-js " >Exits</a></td>
+                                <td data-en="Sector R" data-fr="Sector R" class="labs_symbol_color" lang-change-js >Sector R</td>
+                                <td data-en="Switch Basement close to big pipe" data-fr="Interrupteur Sous-sol à proximité d'un gros tuyau" class="lang-change-js" >Switch Basement close to big pipe</td>
+                                <td data-en="Basement Elevator" data-fr="Ascenseur de sous-sol" class="lang-change-js" >Basement Elevator</td>
                             </tr>
                             <tr>
-                                <td class="" >Exits</a></td>
-                                <td class="labs_symbol_color">Sector Y</td>
-                                <td>Parking Switch</td>
-                                <td>Parking Door </td>
+                                <td data-en="Exits" data-fr="Sorties" class=" lang-change-js " >Exits</a></td>
+                                <td data-en="Sector Y" data-fr="Sector Y" class="labs_symbol_color lang-change-js ">Sector Y</td>
+                                <td data-en="Parking Switch" data-fr="Interrupteur de stationnement" class="lang-change-js" >Parking Switch</td>
+                                <td data-en="Parking Door" data-fr="Porte de stationnement" class="lang-change-js" >Parking Door </td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=YG0Obipa2x4" target="_blank">Beneath the Street</td>
-                                <td class="street_symbol_color">C</td> 
-                                <td></td>
-                                <td>click on the mission's name to look the video to see the spot before I update the map !</td>
+                                <td data-en="Beneath the Street" data-fr="Sous la rue" class="lang-change-js" ><a href="https://www.youtube.com/watch?v=YG0Obipa2x4" target="_blank">Beneath the Street</td>
+                                <td data-en="C" data-fr="C" class="street_symbol_color">C</td> 
+                                <td data-en="" data-fr="" class="lang-change-js" ></td>
+                                <td data-en="cliquez sur le nom de la mission pour regarder la vidéo pour voir l'endroit avant que je mette à jour la carte !" data-fr="cliquez sur le nom de la mission pour regarder la vidéo pour voir l'endroit avant que je mette à jour la carte !" class="lang-change-js" >click on the mission's name to look the video to see the spot before I update the map !</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=XzMmgsmDoAA" target="_blank">Sightseeing</a></td>
-                                <td class="woods_symbol_color" ></td>
-                                <td></td>
-                                <td>Bring an MS2000, click on the mission's name to look the video to see the spot before I update the map !</td>
+                                <td data-en="Sightseeing" data-fr="Touristique" class="lang-change-js" ><a href="https://www.youtube.com/watch?v=XzMmgsmDoAA" target="_blank">Sightseeing</a></td>
+                                <td data-en="" data-fr="" class="woods_symbol_color" ></td>
+                                <td data-en="" data-fr="" class="lang-change-js" ></td>
+                                <td data-en="Bring an MS2000, click on the mission's name to look the video to see the spot before I update the map !" data-fr="Apportez un MS2000, cliquez sur le nom de la mission pour regarder la vidéo pour voir l'endroit avant que je mette à jour la carte !" class="lang-change-js" >Bring an MS2000, click on the mission's name to look the video to see the spot before I update the map !</td>
                             </tr>
                            
                         </tbody>
@@ -239,5 +239,7 @@
         }
         //**  flash color end
     </script>
+    <script src="../js/lanChange.js"></script>
+
 </body>
 </html>

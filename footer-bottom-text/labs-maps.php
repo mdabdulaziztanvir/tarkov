@@ -1,6 +1,6 @@
-<div class="bottom_text text-center">
-    <p class="fw-bolder fs-4">Why a Map Quest Tracker for the map LABS?</p>
-    <p>As you know Escape from Tarkov is a first-person shooter game that requires players to complete quests inside its specific maps.</p>
-    <p>The reference map quest tracker is important for the players because it give essential information about the map layout.</p>
-    <p>Players can use the map quest tracker reference page to be able to know where the other players spawn and also naviguate easily through it.</p>
+<div class="bottom_text text-center  ">
+    <p data-en="Why a Map Quest Tracker for the map LABS?" data-fr="Pourquoi un Map Quest Tracker pour le map LABS ?"  class="fw-bolder fs-4 lang-change-js ">Pourquoi un Map Quest Tracker pour le map LABS ?</p>
+    <p data-en="As you know Escape from Tarkov is a first-person shooter game that requires players to complete quests inside its specific maps." data-fr="Comme vous le savez, Escape from Tarkov est un jeu de tir à la première personne qui demande aux joueurs d'accomplir des quêtes dans ses cartes spécifiques."  class="lang-change-js" >As you know Escape from Tarkov is a first-person shooter game that requires players to complete quests inside its specific maps.</p>
+    <p data-en="Le suivi des quêtes de la carte de référence est important pour les joueurs car il fournit des informations essentielles sur la disposition de la carte." data-fr="Le suivi des quêtes de la carte de référence est important pour les joueurs car il fournit des informations essentielles sur la disposition de la carte."  class="lang-change-js" >The reference map quest tracker is important for the players because it give essential information about the map layout.</p>
+    <p  data-en="Players can use the map quest tracker reference page to be able to know where the other players spawn and also naviguate easily through it." data-fr="Les joueurs peuvent utiliser la page de référence du suivi des quêtes de la carte pour pouvoir savoir où les autres joueurs apparaissent et également naviguer facilement à travers celle-ci." class="lang-change-js" >Players can use the map quest tracker reference page to be able to know where the other players spawn and also naviguate easily through it.</p>
 </div>

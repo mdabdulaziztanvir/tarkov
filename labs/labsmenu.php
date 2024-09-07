@@ -5,16 +5,20 @@
   <button class="btn navbar_button mt-2 mb-1 ms-2 ms-md-4" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">
     <span class="menu_icon">&#9776;</span> 
   </button>
-    <small class="Pages_name bg-dark px-2" >labs</small>
+    <small class="Pages_name bg-dark px-2 lang-change-js" data-en="labs" data-fr="laboratoires" >labs</small>
   </div>
 
   <!-- btn instruction modal -->
-  <div class="d-flex">
+  <div class="d-flex gap-3">
+  <!-- language change button -->
+  <?php include('../home/lanChange.php'); ?> 
+
+    <!-- donate button -->
     <?php include('../home/donate-button.php'); ?> 
 
 
     <!-- btn instruction modal -->
-    <button type="button" class="btn me-2 me-md-5 d-flex justify-content-center align-items-center instructions" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+    <button type="button" class=" lang-change-js btn me-2 me-md-5 d-flex justify-content-center align-items-center instructions" data-bs-toggle="modal" data-bs-target="#staticBackdrop" data-en="How to use the page" data-fr="Comment utiliser la page" >
     How to use the page
     </button>
   </div>
