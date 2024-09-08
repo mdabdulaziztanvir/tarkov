@@ -2,7 +2,7 @@
     <!-- box - 1 start -->
     <div class="border-div-hide"> 
         <div class="text-center my-3">
-            <h4>Info Items</h4>
+            <h4 class="lang-change-js" data-en="Info Items" data-fr="" >Info Items</h4>
         </div>
          <!-- one line start -->
          <div class="d-flex justify-content-evenly mb-1">
@@ -107,7 +107,7 @@
     <!-- box - 2 start -->
     <div class="border-div-hide mt-3">
         <div class="text-center my-3">
-            <h4>Valuables</h4>
+            <h4 class="lang-change-js" data-en="Valuables" data-fr="" >Valuables</h4>
         </div>
           <!-- one line start -->
           <div class="d-flex justify-content-evenly mb-1">
@@ -182,7 +182,7 @@
     <!-- box - 3 start -->
      <div class="border-div-hide mt-3">
         <div class="text-center my-3">
-            <h4>Others</h4>
+            <h4 class="lang-change-js" data-en="Others" data-fr="" >Others</h4>
         </div>
          <!-- one line start -->
          <div class="d-flex justify-content-center mb-1">    
@@ -233,7 +233,7 @@
      <!-- box - 4 start -->
      <div class="border-div-hide mt-3">
         <div class="text-center my-3">
-            <h4>Special Equipment</h4>
+            <h4 class="lang-change-js" data-en="Special Equipment" data-fr="" >Special Equipment</h4>
         </div>
          <!-- one line start -->
          <div class="d-flex justify-content-evenly mb-1">
@@ -262,7 +262,7 @@
     <!-- box - 4 Injury Treatment start -->
     <div class="border-div-hide mt-3">
         <div class="text-center my-3">
-            <h4>Injury Treatment</h4>
+            <h4 class="lang-change-js" data-en="Injury Treatment" data-fr="" >Injury Treatment</h4>
         </div>
          <!-- one line start -->
          <div class="d-flex justify-content-evenly mb-1">

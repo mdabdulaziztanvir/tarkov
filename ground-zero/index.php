@@ -42,7 +42,7 @@
 
                 <img loading="lazy" src="./items/groundzero.png?v=1.1" class="img-fluid rounded" alt="ground zero image">
                 <!-- <div class="text-end my-2">
-                    <a href="./keys/">
+                    <a class="lang-change-js" data-en="Quest" data-fr=""    href="./keys/">
                     <button class="key_button" >Keys</button>
                     </a>
                 </div> -->
@@ -51,85 +51,85 @@
             </div>
             <!-- 2nd col -->
             <div class="col-md-12 col-lg-3 col-xs col-sm-12 sec_col_pad">
-            <small class="not_needed_title note_color" >[<span class="orange_bg" > ORANGE </span> = NOT needed for KAPPA]</small>
+            <small class="not_needed_title bg-dark note_color" >[<span class="orange_bg lang-change-js" data-en="ORANGE " data-fr="" > ORANGE </span> = <span class="lang-change-js" data-en="NOT needed for KAPPA" data-fr="" > NOT needed for KAPPA</span>]</small> 
             <br>
-            <small class="not_needed_title note_color" >[<span class="blue_bg" > BLUE </span> = Lightkeeper's Quests, Not needed for Kappa]</small>
+            <small class="not_needed_title bg-dark note_color" >[<span class="blue_bg lang-change-js" data-en="BLUE" data-fr="" > BLUE </span> = <span class="lang-change-js" data-en="Lightkeeper's Quests, Not needed for Kappa" data-fr="" > Lightkeeper's Quests, Not needed for Kappa </span> ]</small>
                 <div class="factory_table">
                     <table class="table table-dark table-bordered text-center">
                         <thead>
                             <tr>
-                            <th>Quest</th>
-                            <th>Symbol</th>
-                            <th>Keys</th>
-                            <th>NOTES </th>
+                            <th class="lang-change-js" data-en="Quest" data-fr="Quête" >Quest</th>
+                            <th class="lang-change-js" data-en="Symbol" data-fr="Symbole" >Symbol</th>
+                            <th class="lang-change-js" data-en="Keys" data-fr="Clés" >Keys</th>
+                            <th class="lang-change-js" data-en="NOTES" data-fr="NOTES" >NOTES</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=r-uiN7JR23I&t=54s&ab_channel=Affliktid" target="_blank" >Shooting Cans</a></td>
+                                <td><a class="lang-change-js" data-en="Shooting Cans" data-fr=""    href="https://www.youtube.com/watch?v=r-uiN7JR23I&t=54s&ab_channel=Affliktid" target="_blank" >Shooting Cans</a></td>
                                 <td class="ground_zero_symbol_clr">A</td>
                                 <td></td>
-                                <td>Find Machine gun, grenade launcher and kill 5 targets, click on the mission's name for the video !</td>
+                                <td class="lang-change-js" data-en="Find Machine gun, grenade launcher and kill 5 targets, click on the mission's name for the video !" data-fr="" >Find Machine gun, grenade launcher and kill 5 targets, click on the mission's name for the video !</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=OFvWbkIXdLA&ab_channel=Affliktid" target="_blank" >Luxurious Life</a></td>
+                                <td><a class="lang-change-js" data-en="Luxurious Life" data-fr=""    href="https://www.youtube.com/watch?v=OFvWbkIXdLA&ab_channel=Affliktid" target="_blank" >Luxurious Life</a></td>
                                 <td class="ground_zero_symbol_clr">B</td>
                                 <td></td>
-                                <td>Obtain the bottle of wine, click on the quest name to look at the video for the spawn</td>
+                                <td class="lang-change-js" data-en="Obtain the bottle of wine, click on the quest name to look at the video for the spawn" data-fr="" >Obtain the bottle of wine, click on the quest name to look at the video for the spawn</td>
                             </tr>
 
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=CB4oTaqFL1w&ab_channel=Affliktid" target="_blank" >First in Line</a></td>
+                                <td><a class="lang-change-js" data-en="First in Line" data-fr=""    href="https://www.youtube.com/watch?v=CB4oTaqFL1w&ab_channel=Affliktid" target="_blank" >First in Line</a></td>
                                 <td class="ground_zero_symbol_clr">C</td>
                                 <td></td>
-                                <td>Locate the Emercom station on Ground Zero, inside and around the tent, give 3 medecines items to therapist</td>
+                                <td class="lang-change-js" data-en="Locate the Emercom station on Ground Zero, inside and around the tent, give 3 medecines items to therapist" data-fr="" >Locate the Emercom station on Ground Zero, inside and around the tent, give 3 medecines items to therapist</td>
                             </tr>
 
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=w0W1l_yOYOo&ab_channel=Affliktid" target="_blank" >Burning Rubber</a></td>
+                                <td><a class="lang-change-js" data-en="Burning Rubber" data-fr=""    href="https://www.youtube.com/watch?v=w0W1l_yOYOo&ab_channel=Affliktid" target="_blank" >Burning Rubber</a></td>
                                 <td class="ground_zero_symbol_clr">D</td>
                                 <td></td>
-                                <td>Use the paid vehicle extraction on Ground Zero</td>
+                                <td class="lang-change-js" data-en="Use the paid vehicle extraction on Ground Zero" data-fr="" >Use the paid vehicle extraction on Ground Zero</td>
                             </tr>
                             
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=t8FmDjmPlZM&t=127s&ab_channel=Affliktid" target="_blank" >Saving the Mole</a></td>
+                                <td><a class="lang-change-js" data-en="Saving the Mole" data-fr=""    href="https://www.youtube.com/watch?v=t8FmDjmPlZM&t=127s&ab_channel=Affliktid" target="_blank" >Saving the Mole</a></td>
                                 <td class="ground_zero_symbol_clr">E</td>
                                 <td></td>
-                                <td>Locate USEC PMC Group in the parking, Get the key on the dead scientist, Item on the office at the desk in the middle. </td>
+                                <td class="lang-change-js" data-en="Locate USEC PMC Group in the parking, Get the key on the dead scientist, Item on the office at the desk in the middle." data-fr="" >Locate USEC PMC Group in the parking, Get the key on the dead scientist, Item on the office at the desk in the middle. </td>
                             </tr>
                             
                             <tr>
-                                <td>A Shooter Born in Heaven</td>
+                                <td class="lang-change-js" data-en="A Shooter Born in Heaven" data-fr="" >A Shooter Born in Heaven</td>
                                 <td class="ground_zero_symbol_clr"></td> 
                                 <td></td>
-                                <td>Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Ground Zero</td>
+                                <td class="lang-change-js" data-en="Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Ground Zero" data-fr="" >Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Ground Zero</td>
                             </tr>
                             
                             <tr>
-                                <td>Peacekeeping Mission</td>
+                                <td class="lang-change-js" data-en="Peacekeeping Mission" data-fr="" >Peacekeeping Mission</td>
                                 <td class="ground_zero_symbol_clr"></td>
                                 <td></td>
-                                <td>Eliminate 12 Scavs on Ground Zero while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)</td>
+                                <td class="lang-change-js" data-en="Eliminate 12 Scavs on Ground Zero while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)" data-fr="" >Eliminate 12 Scavs on Ground Zero while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)</td>
                             </tr>
                             
                             <tr>
-                                <td>Information Source</td>
+                                <td class="lang-change-js" data-en="Information Source" data-fr="" >Information Source</td>
                                 <td class="ground_zero_symbol_clr"></td>
                                 <td></td>
-                                <td>Survive and extract from Ground Zero through Police Cordon V-Ex</td>
+                                <td class="lang-change-js" data-en="Survive and extract from Ground Zero through Police Cordon V-Ex" data-fr="" >Survive and extract from Ground Zero through Police Cordon V-Ex</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=EbeT4Vx1E5o" target="_blank" >Sightseeing</a></td>
+                                <td><a class="lang-change-js" data-en="Sightseeing" data-fr=""    href="https://www.youtube.com/watch?v=EbeT4Vx1E5o" target="_blank" >Sightseeing</a></td>
                                 <td class="ground_zero_symbol_clr"></td>
                                 <td></td>
-                                <td>Bring MS2000 Marker, click on the mission's name for the video to see the place before I upload the map</td>
+                                <td class="lang-change-js" data-en="Bring MS2000 Marker, click on the mission's name for the video to see the place before I upload the map" data-fr="" >Bring MS2000 Marker, click on the mission's name for the video to see the place before I upload the map</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=1lJ6aSGpCgY" target="_blank" >Rough Tarkov</a></td>
+                                <td><a class="lang-change-js" data-en="Rough Tarkov" data-fr=""    href="https://www.youtube.com/watch?v=1lJ6aSGpCgY" target="_blank" >Rough Tarkov</a></td>
                                 <td class="ground_zero_symbol_clr">F</td>
                                 <td></td>
-                                <td>Just go into the corridor, DONT ENTER THE ROOM AT THE END !!!</td>
+                                <td class="lang-change-js" data-en="Just go into the corridor, DONT ENTER THE ROOM AT THE END !!!" data-fr="" >Just go into the corridor, DONT ENTER THE ROOM AT THE END !!!</td>
                             </tr>
                             
                         </tbody>
@@ -245,5 +245,6 @@
         }
         //**  flash color end
     </script>
+    <script src="../js/lanChange.js"></script>
 </body>
 </html>

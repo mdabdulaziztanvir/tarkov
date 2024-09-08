@@ -2,7 +2,7 @@
     <!-- box - 1 start -->
     <div class="border-div-hide">
         <div class="text-center my-3">
-            <h4>Storage Container</h4>
+            <h4 class="lang-change-js" data-en="Storage Container" data-fr="" >Storage Container</h4>
         </div>
             <!-- one line start -->
         <div class="d-flex justify-content-center mb-1">
@@ -23,7 +23,7 @@
     <div class="four d-flex justify-content-evenly mt-3">
         <div class="border-div-hide">
             <div class="text-center my-3">
-                <h4>Drinks</h4>
+                <h4 class="lang-change-js" data-en="Drinks" data-fr="" >Drinks</h4>
             </div>
             <!-- single Box start -->
             <div  class="hide__outer__box">
@@ -38,7 +38,7 @@
         </div>
         <div class="border-div-hide ">
             <div class="text-center my-3">
-                <h4>Maps</h4>
+                <h4 class="lang-change-js" data-en="Maps" data-fr="" >Maps</h4>
             </div>
             <!-- single Box start -->
             <div  class="hide__outer__box">
@@ -55,7 +55,7 @@
          <!-- box - 3 start -->
     <div class="border-div-hide mt-3 fixed-height-col-four">
         <div class="text-center my-3">
-            <h4>Money</h4>
+            <h4 class="lang-change-js" data-en="Money" data-fr="" >Money</h4>
         </div>
           <!-- one line start -->
         <div class=" mb-1">
@@ -102,7 +102,7 @@
 
 <div class="border-div-hide mt-3 fixed-height-col-four">
         <div class="text-center my-3">
-            <h4>Cultist Sacrifice</h4>
+            <h4 class="lang-change-js" data-en="Cultist Sacrifice" data-fr="" >Cultist Sacrifice</h4>
         </div>
 
         <!-- first line start -->
@@ -168,4 +168,4 @@
 
 
 </div>
-<h4 class="text-center m-3" > Created with MVGGUS help </h4>
+<h4 class="text-center m-3 lang-change-js" data-en="Created with MVGGUS help" data-fr="" > Created with MVGGUS help </h4>

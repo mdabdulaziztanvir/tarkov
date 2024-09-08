@@ -2,7 +2,7 @@
     <!-- box - 1 start -->
     <div class="border-div-hide">
         <div class="text-center my-3">
-            <h4>Building Materials</h4>
+            <h4 class="lang-change-js" data-en="Building Materials" data-fr="" >Building Materials</h4>
         </div>
 
         <!-- one line start -->
@@ -172,7 +172,7 @@
     <!-- box - 2 start -->
     <div class="border-div-hide  mt-3">
         <div class="text-center my-3">
-            <h4>Tools</h4>
+            <h4 class="lang-change-js" data-en="Tools" data-fr="" >Tools</h4>
         </div>
         <!-- one line start -->
         <div class="d-flex justify-content-evenly mb-1">

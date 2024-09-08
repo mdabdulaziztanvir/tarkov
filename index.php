@@ -86,8 +86,8 @@ commented
     <?php include('./home/navbar.php'); ?> 
     <?php include('./home/mobilestream.php'); ?> 
     <div class="text-center mb-3">
-        <span class="title_text">*FIR not required</span>
-        <span class="title_text ms-3">+Can be crafted</span>
+        <span class="title_text lang-change-js " data-en="*FIR not required" data-fr="" >*FIR not required</span>
+        <span class="title_text ms-3 lang-change-js " data-en="+Can be crafted" data-fr="" >+Can be crafted</span>
     </div>
         
     <div class="play__ground accordion" id="accordionExample">
@@ -129,6 +129,9 @@ commented
     </script>
 <!-- bootstrap js -->
     <script src="./cdn/js/bootstrap.js?v=1.6" defer></script>
+    <!-- lanchange js -->
+    <script src="./js/lanChange.js"></script>
+
     <!-- custom js -->
     <script src="./js/main.js?v=1.7" defer ></script>
 

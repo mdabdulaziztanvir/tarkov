@@ -1,16 +1,19 @@
 <div class="nav--background d-flex justify-content-between align-items-center my-2">
   <div class="d-flex gap-4 align-items-center">
     <?php include('menu.php'); ?> 
-    <small class="Pages_name " >Items Tracker</small>
+    <small class="Pages_name lang-change-js" data-en="Items Tracker" data-fr="" >Items Tracker</small>
   </div>
  
  <!-- Modal -->
   <!-- Button trigger modal -->
-  <div class="d-flex">
-    
+  <div class="d-flex gap-3">
+    <!-- language change button -->
+  <?php include('./home/lanChange.php'); ?> 
     <?php include('donate-button.php'); ?> 
-      
-    <button type="button" class="btn me-2 me-md-5 d-flex justify-content-center align-items-center instructions" id="monthlyModal" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+
+    
+
+    <button type="button" class="lang-change-js btn me-2 me-md-5 d-flex justify-content-center align-items-center instructions" id="monthlyModal" data-bs-toggle="modal" data-bs-target="#staticBackdrop" data-en="How to use the page" data-fr="" >
     How to use the page
     </button>
 
@@ -20,7 +23,7 @@
   <div class="modal-dialog modal-xl ">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-4" id="staticBackdropLabel">How to use the page</h1>
+        <h1 class="modal-title fs-4 lang-change-js" id="staticBackdropLabel" data-en="How to use the page" data-fr="" >How to use the page</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">

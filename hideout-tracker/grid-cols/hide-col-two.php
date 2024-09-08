@@ -2,7 +2,7 @@
     <!-- box - 1 start -->
     <div class="border-div-hide">
         <div class="text-center my-3">
-            <h4>Electronics</h4>
+            <h4 class="lang-change-js" data-en="Electronics" data-fr="" >Electronics</h4>
         </div>
          <!-- one line start -->
          <div class="d-flex justify-content-evenly mb-1">
@@ -280,7 +280,7 @@
     <!-- box - 2 start -->
     <div class="border-div-hide mt-3">
         <div class="text-center my-3">
-            <h4>Energy Elements</h4>
+            <h4 class="lang-change-js" data-en="Energy Elements" data-fr="" >Energy Elements</h4>
         </div>
           <!-- one line start -->
           <div class="d-flex justify-content-center mb-1">

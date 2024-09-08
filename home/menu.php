@@ -12,22 +12,22 @@
   <div class="menu_bottom_border text-center "></div>
   <div class="offcanvas-body">
       <div class="nav_links d-flex flex-column gap-3 align-items-start ms-1">
-        <a href="/" class="active">Items Tracker</a>
-        <a href="./hideout-tracker/">Hideout Tracker</a>
-        <a href="./other-quests/">Other Quests</a>
-        <a href="./ground-zero/">Ground Zero</a>
-        <a href="./streets/">Street</a>
-        <a href="./custom/">Customs</a>
-        <a href="./shoreline/">Shoreline</a>
-        <a href="./woods/">Woods</a>
-        <a href="./lighthouse/">Lighthouse</a>
-        <a href="./reserve/">Reserve</a>
-        <a href="./factory/">Factory</a>
-        <a href="./interchange/">Interchange</a>
-        <a href="./labs/">Labs</a>
-        <a href="./bitcoin/">Bitcoin</a>
-        <a href="./cases-barter/">Cases Barter</a>
-        <a href="https://www.eft-ammo.com/" target="_blank" >Ammo Chart</a>
+        <a class="lang-change-js" data-en="Items Tracker" data-fr="" href="/" class="active">Items Tracker</a>
+        <a class="lang-change-js" data-en="Hideout Tracker" data-fr="" href="./hideout-tracker/">Hideout Tracker</a>
+        <a class="lang-change-js" data-en="Other Quests" data-fr="" href="./other-quests/">Other Quests</a>
+        <a class="lang-change-js" data-en="Ground Zero" data-fr="" href="./ground-zero/">Ground Zero</a>
+        <a class="lang-change-js" data-en="Street" data-fr="" href="./streets/">Street</a>
+        <a class="lang-change-js" data-en="Customs" data-fr="" href="./custom/">Customs</a>
+        <a class="lang-change-js" data-en="Shoreline" data-fr="" href="./shoreline/">Shoreline</a>
+        <a class="lang-change-js" data-en="Woods" data-fr="" href="./woods/">Woods</a>
+        <a class="lang-change-js" data-en="Lighthouse" data-fr="" href="./lighthouse/">Lighthouse</a>
+        <a class="lang-change-js" data-en="Reserve" data-fr="" href="./reserve/">Reserve</a>
+        <a class="lang-change-js" data-en="Factory" data-fr="" href="./factory/">Factory</a>
+        <a class="lang-change-js" data-en="QInterchangeuest" data-fr="" href="./interchange/">Interchange</a>
+        <a class="lang-change-js" data-en="Labs" data-fr="" href="./labs/">Labs</a>
+        <a class="lang-change-js" data-en="Bitcoin" data-fr="" href="./bitcoin/">Bitcoin</a>
+        <a class="lang-change-js" data-en="Cases Barter" data-fr="" href="./cases-barter/">Cases Barter</a>
+        <a class="lang-change-js" data-en="Ammo Chart" data-fr="" href="https://www.eft-ammo.com/" target="_blank" >Ammo Chart</a>
         
        
 

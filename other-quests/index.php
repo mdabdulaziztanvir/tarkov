@@ -51,271 +51,282 @@
             </div>
             <!-- 2nd col -->
             <div class="col-12 sec_col_pad">
-            <small class="not_needed_title bg-dark note_color" >[<span class="orange_bg" > ORANGE </span> = NOT needed for KAPPA]</small> 
+            <small class="not_needed_title bg-dark note_color" >[<span class="orange_bg lang-change-js" data-en="ORANGE " data-fr="" > ORANGE </span> = <span class="lang-change-js" data-en="NOT needed for KAPPA" data-fr="" > NOT needed for KAPPA</span>]</small> 
             <br>
-            <small class="not_needed_title bg-dark note_color" >[<span class="blue_bg" > BLUE </span> = Lightkeeper's Quests, Not needed for Kappa]</small>
+            <small class="not_needed_title bg-dark note_color" >[<span class="blue_bg lang-change-js" data-en="BLUE" data-fr="" > BLUE </span> = <span class="lang-change-js" data-en="Lightkeeper's Quests, Not needed for Kappa" data-fr="" > Lightkeeper's Quests, Not needed for Kappa </span> ]</small>
 
                 <div class="factory_table">
                     <table class="table table-dark table-bordered text-center">
                         <thead>
                             <tr>
-                            <th>Quest</th>
-                            <th>Symbol</th>
-                            <th>NOTES </th>
+                            <th class="lang-change-js" data-en="Quest" data-fr="" > Quest</th>
+                            <th class="lang-change-js" data-en="Symbol" data-fr="" > Symbol</th>
+                            <th class="lang-change-js" data-en="NOTES" data-fr="" > NOTES </th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td >Debut</td>
+                                <td class="lang-change-js" data-en="Debut" data-fr=""  >Debut</td>
                                 <td class="otherQuest_symbol_clr"></td>                              
-                                <td>Eliminate 5 Scavs all over the Tarkov territory <br>
+                                <td class="lang-change-js" data-en="Eliminate 5 Scavs all over the Tarkov territory 
+                                    Obtain and hand over 2 MP-133 12ga shotguns" data-fr=""  >Eliminate 5 Scavs all over the Tarkov territory <br>
                                     Obtain and hand over 2 MP-133 12ga shotguns
                                 </td>
                             </tr>
                             <!-- 2 -->
                             <tr>
-                                <td>The Punisher - Part 5</td>
+                                <td class="lang-change-js" data-en="The Punisher - Part 5" data-fr=""  >The Punisher - Part 5</td>
                                 <td class="otherQuest_symbol_clr"></td>                               
-                                <td>Eliminate 10 PMCs while wearing a PACA body armor and 6B47 helmet</td>
+                                <td class="lang-change-js" data-en="Eliminate 10 PMCs while wearing a PACA body armor and 6B47 helmet" data-fr=""  >Eliminate 10 PMCs while wearing a PACA body armor and 6B47 helmet</td>
                             </tr>
                             <!-- 3 -->
                             <tr>
-                                <td>The Punisher - Part 6</td>
+                                <td class="lang-change-js" data-en="The Punisher - Part 6" data-fr=""  >The Punisher - Part 6</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 15 PMCs while using SVD rifle (excluding Factory location)</td>
+                                <td class="lang-change-js" data-en="Eliminate 15 PMCs while using SVD rifle (excluding Factory location)" data-fr=""  >Eliminate 15 PMCs while using SVD rifle (excluding Factory location)</td>
                             </tr>
                             <!-- 4 -->
                             <tr>
-                                <td>Grenadier</td>
+                                <td class="lang-change-js" data-en="Grenadier" data-fr=""  >Grenadier</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 8 PMCs with grenades</td>
+                                <td class="lang-change-js" data-en="Eliminate 8 PMCs with grenades" data-fr=""  >Eliminate 8 PMCs with grenades</td>
                             </tr>
                             <!-- 5 -->
                             <tr>
-                                <td>Test Drive - Part 1</td>
+                                <td class="lang-change-js" data-en="Test Drive - Part 1" data-fr=""  >Test Drive - Part 1</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 5 PMC operatives from over 60 meters away while using an M1A rifle with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope</td>
+                                <td class="lang-change-js" data-en="Eliminate 5 PMC operatives from over 60 meters away while using an M1A rifle with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope" data-fr=""  >Eliminate 5 PMC operatives from over 60 meters away while using an M1A rifle with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope</td>
                             </tr>
                             <!-- 6 -->
                             <tr>
-                                <td>Perfect Mediator</td>
+                                <td class="lang-change-js" data-en="Perfect Mediator" data-fr=""  >Perfect Mediator</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Reach level 4 loyalty with Ragman  <br> 
-                                Reach level 4 loyalty with Skier  <br>
-                                Reach level 4 loyalty with Mechanic  <br>
-                                Reach level 4 loyalty with Peacekeeper  <br>
-                                Reach level 4 loyalty with Prapor  <br>
-                                Reach level 4 loyalty with Therapist</td>
+                                <td ><span class="lang-change-js" data-en="Reach level 4 loyalty with Ragman" data-fr="" >Reach level 4 loyalty with Ragman </span>  <br> 
+                                <span class="lang-change-js" data-en="Reach level 4 loyalty with Skier " data-fr="" >Reach level 4 loyalty with Skier </span> <br>
+                                <span class="lang-change-js" data-en="Reach level 4 loyalty with Mechanic " data-fr="" >Reach level 4 loyalty with Mechanic  </span><br>
+                                <span class="lang-change-js" data-en="Reach level 4 loyalty with Peacekeeper" data-fr="" >Reach level 4 loyalty with Peacekeeper </span> <br>
+                                <span class="lang-change-js" data-en="Reach level 4 loyalty with Prapor" data-fr="" >Reach level 4 loyalty with Prapor </span> <br>
+                                <span class="lang-change-js" data-en="Reach level 4 loyalty with Therapist" data-fr="" >Reach level 4 loyalty with Therapist</span></td>
                             </tr>
                             <!-- 7 -->
                             <tr>
-                                <td>Intimidator</td>
+                                <td class="lang-change-js" data-en="Intimidator" data-fr=""  >Intimidator</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 40 Scavs with headshots</td>
+                                <td class="lang-change-js" data-en="Eliminate 40 Scavs with headshots" data-fr=""  >Eliminate 40 Scavs with headshots</td>
                             </tr>
                             <!-- 8 -->
                             <tr>
-                                <td class="quest_not_needed">Escort</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="Quest" data-fr="" >Escort</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>You must not die or leave the raid while the task is active (Status: KIA, Left the Action, MIA, Ran Through) <br>
-                                    Eliminate 4 PMCs on daytime Factory <br>
-                                    Eliminate 4 PMCs on Ground Zero <br>
-                                    Eliminate 4 PMCs on Customs <br>
-                                    Eliminate 4 PMCs on Shoreline <br>
-                                    Eliminate 4 PMCs on Reserve <br>
-                                    Eliminate 4 PMCs on Woods <br>
-                                    Eliminate 4 PMCs on Interchange <br>
-                                    Eliminate 4 PMCs in The Lab</td>
+                                <td>
+                                    <span class="lang-change-js" data-en="You must not die or leave the raid while the task is active (Status: KIA, Left the Action, MIA, Ran Through)" data-fr="" > You must not die or leave the raid while the task is active (Status: KIA, Left the Action, MIA, Ran Through)  </span>  <br>
+                                    <span class="lang-change-js" data-en="Eliminate 4 PMCs on daytime Factory " data-fr="" > Eliminate 4 PMCs on daytime Factory  </span> <br>
+                                    <span class="lang-change-js" data-en="Eliminate 4 PMCs on Ground Zero " data-fr="" > Eliminate 4 PMCs on Ground Zero  </span> <br>
+                                    <span class="lang-change-js" data-en="Eliminate 4 PMCs on Customs " data-fr="" > Eliminate 4 PMCs on Customs  </span> <br>
+                                    <span class="lang-change-js" data-en="QueEliminate 4 PMCs on Shorelinest" data-fr="" > Eliminate 4 PMCs on Shoreline  </span> <br>
+                                    <span class="lang-change-js" data-en="Eliminate 4 PMCs on Reserve " data-fr="" > Eliminate 4 PMCs on Reserve  </span> <br>
+                                    <span class="lang-change-js" data-en="Eliminate 4 PMCs on Woods" data-fr="" > Eliminate 4 PMCs on Woods  </span> <br>
+                                    <span class="lang-change-js" data-en="Eliminate 4 PMCs on Interchange " data-fr="" > Eliminate 4 PMCs on Interchange  </span> <br>
+                                    <span class="lang-change-js" data-en="Eliminate 4 PMCs in The Lab" data-fr="" > Eliminate 4 PMCs in The Lab </span> </td>
                             </tr>
                             <!-- 9 -->
                             <tr>
-                                <td>Best Job in the World</td>
+                                <td class="lang-change-js" data-en="Best Job in the World" data-fr=""  >Best Job in the World</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate any 30 hostiles from over 100 meters away while using AK-74 series weapons</td>
+                                <td class="lang-change-js" data-en="Eliminate any 30 hostiles from over 100 meters away while using AK-74 series weapons" data-fr=""  >Eliminate any 30 hostiles from over 100 meters away while using AK-74 series weapons</td>
                             </tr>
                             <!-- 10 -->
                             <tr>
-                                <td>Stirrup</td>
+                                <td class="lang-change-js" data-en="QuStirrupest" data-fr=""  >Stirrup</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 3 PMCs while using pistols </td>
+                                <td class="lang-change-js" data-en="Eliminate 3 PMCs while using pistols" data-fr=""  >Eliminate 3 PMCs while using pistols </td>
                             </tr>
                             <!-- 11 -->
                             <tr>
-                                <td>Silent Caliber</td>
+                                <td class="lang-change-js" data-en="Silent Caliber" data-fr=""  >Silent Caliber</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 20 Scavs with using a suppressed 12 gauge shotgun <br>
-                                    Eliminate 10 PMCs while using a suppressed 12 gauge shotgun <br></td>
+                                <td>
+                                    <span class="lang-change-js" data-en="Eliminate 20 Scavs with using a suppressed 12 gauge shotgun " data-fr="" > Eliminate 20 Scavs with using a suppressed 12 gauge shotgun </span> <br>
+                                    <span class="lang-change-js" data-en="Eliminate 10 PMCs while using a suppressed 12 gauge shotgun" data-fr="" > Eliminate 10 PMCs while using a suppressed 12 gauge shotgun </span> <br>
+                                </td>
                             </tr>
                             <!-- 12 -->
                             <tr>
-                                <td class="quest_not_needed" >Night Sweep</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="Night Sweep" data-fr=""  >Night Sweep</td>
                                 <td class="otherQuest_symbol_clr"></td>                               
-                                <td>Find 12 Cultist knives </td>
+                                <td class="lang-change-js" data-en="Find 12 Cultist knives" data-fr=""  >Find 12 Cultist knives </td>
                             </tr>
                             <!-- 13 -->
                             <tr>
-                                <td class="quest_not_needed" >The Guide</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="The Guide" data-fr=""  >The Guide</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Survive and extract from Woods with the "Survived" exit status <br>
-                                    Survive and extract from Ground Zero with the "Survived" exit status <br>
-                                    Survive and extract from Customs with the "Survived" exit status <br>
-                                    Survive and extract from Interchange with the "Survived" exit status <br>
-                                    Survive and extract from Shoreline with the "Survived" exit status <br>
-                                    Survive and extract from Factory with the "Survived" exit status <br>
-                                    Survive and extract from The Lab with the "Survived" exit status <br>
-                                    Survive and extract from Reserve with the "Survived" exit status <br>
-                                    Survive and extract from Lighthouse with the "Survived" exit status <br>
-                                    Survive and extract from Streets of Tarkov with the "Survived" exit status</td>
+                                <td>
+                                    <span class="lang-change-js" data-en="Survive and extract from Woods with the 'Survived' exit status " data-fr="" > Survive and extract from Woods with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from Ground Zero with the 'Survived' exit status " data-fr="" > Survive and extract from Ground Zero with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from Customs with the 'Survived' exit status" data-fr="" > Survive and extract from Customs with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from Interchange with the 'Survived' exit status " data-fr="" > Survive and extract from Interchange with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from Shoreline with the 'Survived' exit status" data-fr="" > Survive and extract from Shoreline with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from Factory with the 'Survived' exit status " data-fr="" > Survive and extract from Factory with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from The Lab with the 'Survived' exit status " data-fr="" > Survive and extract from The Lab with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from Reserve with the 'Survived' exit status " data-fr="" > Survive and extract from Reserve with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from Lighthouse with the 'Survived' exit status" data-fr="" > Survive and extract from Lighthouse with the 'Survived' exit status  </span> <br>
+                                    <span class="lang-change-js" data-en="Survive and extract from Streets of Tarkov with the 'Survived' exit status" data-fr="" > Survive and extract from Streets of Tarkov with the "Survived" exit status </span>
+
+                                </td>
                             </tr>
                             <!-- 14 -->
                             <tr>
-                                <td>Insomnia</td>
+                                <td class="lang-change-js" data-en="Insomnia" data-fr=""  >Insomnia</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 30 PMC operatives in the time period of 22:00-05:00 (Excluding Factory and The Lab) </td>
+                                <td class="lang-change-js" data-en="Eliminate 30 PMC operatives in the time period of 22:00-05:00 (Excluding Factory and The Lab)" data-fr=""  >Eliminate 30 PMC operatives in the time period of 22:00-05:00 (Excluding Factory and The Lab) </td>
                             </tr>
                             <!-- 15 -->
                             <tr>
-                                <td class="quest_not_needed" >Worst Job in the World</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="Worst Job in the World" data-fr=""  >Worst Job in the World</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate any 30 hostiles from over 100 meters away while using AR-15 platform weapons</td>
+                                <td class="lang-change-js" data-en="Eliminate any 30 hostiles from over 100 meters away while using AR-15 platform weapons" data-fr=""  >Eliminate any 30 hostiles from over 100 meters away while using AR-15 platform weapons</td>
                             </tr>
                             <!-- 16 -->
                             <tr>
-                                <td>Psycho Sniper</td>
+                                <td class="lang-change-js" data-en="Psycho Sniper" data-fr=""  >Psycho Sniper</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 5 PMC operatives without dying while using a bolt-action rifle</td>
+                                <td class="lang-change-js" data-en="Eliminate 5 PMC operatives without dying while using a bolt-action rifle" data-fr=""  >Eliminate 5 PMC operatives without dying while using a bolt-action rifle</td>
                             </tr>
                             <!-- 17 -->
                             <!-- 18 -->
                             <tr>
-                                <td class="quest_not_needed" >Calibration</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="Calibration" data-fr=""  >Calibration</td>
                                 <td class="otherQuest_symbol_clr"></td>    
-                                <td>Eliminate 20 PMCs from at least 100m away</td>
+                                <td class="lang-change-js" data-en="Eliminate 20 PMCs from at least 100m away" data-fr=""  >Eliminate 20 PMCs from at least 100m away</td>
                             </tr>
                             <!-- 19 -->
                             <tr>
-                                <td>The Survivalist Path - Zhivchik</td>
+                                <td class="lang-change-js" data-en="The Survivalist Path - Zhivchik" data-fr=""  >The Survivalist Path - Zhivchik</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Survive for 5 minutes while suffering from complete dehydration (Excluding Factory)</td>
+                                <td class="lang-change-js" data-en="Survive for 5 minutes while suffering from complete dehydration (Excluding Factory)" data-fr=""  >Survive for 5 minutes while suffering from complete dehydration (Excluding Factory)</td>
                             </tr>
                             <!-- 20 -->
                             <tr>
-                                <td>The Survivalist Path - Wounded Beast</td>
+                                <td class="lang-change-js" data-en="The Survivalist Path - Wounded Beast" data-fr=""  >The Survivalist Path - Wounded Beast</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 3 Scavs while suffering from pain effect</td>
+                                <td class="lang-change-js" data-en="Eliminate 3 Scavs while suffering from pain effect" data-fr=""  >Eliminate 3 Scavs while suffering from pain effect</td>
                             </tr>
                             <!-- 21 -->
                             <tr>
-                                <td class="quest_not_needed" >The Survivalist Path - Cold Blooded</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="The Survivalist Path - Cold Blooded" data-fr=""  >The Survivalist Path - Cold Blooded</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 2 PMCs with headshots while suffering from tremor effect </td>
+                                <td class="lang-change-js" data-en="Eliminate 2 PMCs with headshots while suffering from tremor effect" data-fr=""  >Eliminate 2 PMCs with headshots while suffering from tremor effect </td>
                             </tr>
                             <!-- 22 -->
                             <tr>
-                                <td>The Survivalist Path - Eagle-Owl</td>
+                                <td class="lang-change-js" data-en="The Survivalist Path - Eagle-Owl" data-fr=""  >The Survivalist Path - Eagle-Owl</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 6 Scavs in the time period of 21:00-04:00 without using any NVGs or thermal sights (Excluding Factory)</td>
+                                <td class="lang-change-js" data-en="Eliminate 6 Scavs in the time period of 21:00-04:00 without using any NVGs or thermal sights (Excluding Factory)" data-fr=""  >Eliminate 6 Scavs in the time period of 21:00-04:00 without using any NVGs or thermal sights (Excluding Factory)</td>
                             </tr>
                             <!-- 23 -->
                             <tr>
-                                <td>The Huntsman Path - Forest Cleaning</td>
+                                <td class="lang-change-js" data-en="The Huntsman Path - Forest Cleaning" data-fr=""  >The Huntsman Path - Forest Cleaning</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 30 Scavs all over the Tarkov territory</td>
+                                <td class="lang-change-js" data-en="Eliminate 30 Scavs all over the Tarkov territory" data-fr=""  >Eliminate 30 Scavs all over the Tarkov territory</td>
                             </tr>
                             <!-- 24 -->
                             <tr>
-                                <td>The Huntsman Path - Controller</td>
+                                <td class="lang-change-js" data-en="The Huntsman Path - Controller" data-fr=""  >The Huntsman Path - Controller</td>
                                 <td class="otherQuest_symbol_clr"></td>
-                                <td>Eliminate 2 PMCs while they are suffering from the stun effect</td>
+                                <td class="lang-change-js" data-en="Eliminate 2 PMCs while they are suffering from the stun effect" data-fr=""  >Eliminate 2 PMCs while they are suffering from the stun effect</td>
                             </tr>
                             <!-- 25 -->
                             <tr>
-                                <td>The Tarkov Shooter - Part 1</td>
+                                <td class="lang-change-js" data-en="The Tarkov Shooter - Part 1" data-fr=""  >The Tarkov Shooter - Part 1</td>
                                 <td class="otherQuest_symbol_clr"></td>
-                                <td>Eliminate 5 Scavs while using a bolt-action rifle with iron sights from at least 40 meters away</td>
+                                <td class="lang-change-js" data-en="Eliminate 5 Scavs while using a bolt-action rifle with iron sights from at least 40 meters away" data-fr=""  >Eliminate 5 Scavs while using a bolt-action rifle with iron sights from at least 40 meters away</td>
                             </tr>
                             <!-- 26 -->
                             <tr>
-                                <td>The Tarkov Shooter - Part 2</td>
+                                <td class="lang-change-js" data-en="The Tarkov Shooter - Part 2" data-fr=""  >The Tarkov Shooter - Part 2</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Make 3 leg hits while using a bolt-action rifle from at least 40 meters away <br>
+                                <td class="lang-change-js" data-en="Make 3 leg hits while using a bolt-action rifle from at least 40 meters away 
+                                    Make 2 headshots while using a bolt-action rifle from at least 40 meters away" data-fr=""  >Make 3 leg hits while using a bolt-action rifle from at least 40 meters away 
                                     Make 2 headshots while using a bolt-action rifle from at least 40 meters away</td>
                             </tr>
                             <!-- 27 -->
                             <tr>
-                                <td>The Tarkov Shooter - Part 3</td>
+                                <td class="lang-change-js" data-en="The Tarkov Shooter - Part 3" data-fr=""  >The Tarkov Shooter - Part 3</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 3 PMCs while using a bolt-action rifle at close range (less than 25 meters away)</td>
+                                <td class="lang-change-js" data-en="Eliminate 3 PMCs while using a bolt-action rifle at close range (less than 25 meters away)" data-fr=""  >Eliminate 3 PMCs while using a bolt-action rifle at close range (less than 25 meters away)</td>
                             </tr>
                             <!-- 28 -->
                             <tr>
-                                <td>The Tarkov Shooter - Part 4</td>
+                                <td class="lang-change-js" data-en="The Tarkov Shooter - Part 4" data-fr=""  >The Tarkov Shooter - Part 4</td>
                                 <td class="otherQuest_symbol_clr"></td>
-                                <td>Eliminate 5 PMC operatives from over 80 meters away while using a bolt-action rifle</td>
+                                <td class="lang-change-js" data-en="Eliminate 5 PMC operatives from over 80 meters away while using a bolt-action rifle" data-fr=""  >Eliminate 5 PMC operatives from over 80 meters away while using a bolt-action rifle</td>
                             </tr>
                             <!-- 29 -->
                             <tr>
-                                <td>The Tarkov Shooter - Part 6</td>
+                                <td class="lang-change-js" data-en="The Tarkov Shooter - Part 6" data-fr=""  >The Tarkov Shooter - Part 6</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 5 Sniper Scavs while using a bolt-action rifle</td>
+                                <td class="lang-change-js" data-en="Eliminate 5 Sniper Scavs while using a bolt-action rifle" data-fr=""  >Eliminate 5 Sniper Scavs while using a bolt-action rifle</td>
                             </tr>
                             <!-- 30 -->
                             <tr>
-                                <td>The Tarkov Shooter - Part 7</td>
+                                <td class="lang-change-js" data-en="The Tarkov Shooter - Part 7" data-fr=""  >The Tarkov Shooter - Part 7</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 5 PMCs while using a suppressed bolt-action rifle from at least 45 meters away</td>
+                                <td class="lang-change-js" data-en="Eliminate 5 PMCs while using a suppressed bolt-action rifle from at least 45 meters away" data-fr=""  >Eliminate 5 PMCs while using a suppressed bolt-action rifle from at least 45 meters away</td>
                             </tr>
                             <!-- 31 -->
                             <tr>
-                                <td>The Tarkov Shooter - Part 8</td>
+                                <td class="lang-change-js" data-en="The Tarkov Shooter - Part 8" data-fr=""  >The Tarkov Shooter - Part 8</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Eliminate 3 PMCs with a headshot and without dying while using a bolt-action rifle</td>
+                                <td class="lang-change-js" data-en="Eliminate 3 PMCs with a headshot and without dying while using a bolt-action rifle" data-fr=""  >Eliminate 3 PMCs with a headshot and without dying while using a bolt-action rifle</td>
                             </tr>
                             <!-- 32 -->
                             <tr>
-                                <td class="quest_not_needed" >The Huntsman Path - Relentless</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="The Huntsman Path - Relentless" data-fr=""  >The Huntsman Path - Relentless</td>
                                 <td class="otherQuest_symbol_clr"></td>                                
-                                <td>Without dying or Ran through <br> 
-                                    Eliminate Tagilla <br>
-                                    Eliminate Killa <br>
-                                    Eliminate Reshala <br>
-                                    Eliminate Shturman <br>
-                                    Eliminate Glukhar <br>    
-                                    Eliminate Sanitar</td>
+                                <td>
+                                   <span class="lang-change-js" data-en="Without dying or Ran through " data-fr="" > Without dying or Ran through  </span> <br> 
+                                   <span class="lang-change-js" data-en="Eliminate Tagilla " data-fr="" > Eliminate Tagilla  </span> <br>
+                                   <span class="lang-change-js" data-en="Eliminate Killa" data-fr="" > Eliminate Killa </span>  <br>
+                                   <span class="lang-change-js" data-en="Eliminate Reshala " data-fr="" > Eliminate Reshala  </span> <br>
+                                   <span class="lang-change-js" data-en=" Eliminate Shturman " data-fr="" > Eliminate Shturman  </span> <br>
+                                   <span class="lang-change-js" data-en="Eliminate Glukhar " data-fr="" > Eliminate Glukhar  </span> <br>    
+                                   <span class="lang-change-js" data-en="Eliminate Sanitar " data-fr="" > Eliminate Sanitar </span> </td>
                             </tr>
                             <!-- 33 -->
                             <tr>
-                                <td>Stray Dogs</td>
+                                <td class="lang-change-js" data-en="Stray Dogs" data-fr=""  >Stray Dogs</td>
                                 <td class="otherQuest_symbol_clr"></td>   
-                                <td>Eliminate Knight, Big Pipe, Birdeye</td>
+                                <td class="lang-change-js" data-en="Eliminate Knight, Big Pipe, Birdeye" data-fr=""  >Eliminate Knight, Big Pipe, Birdeye</td>
                             </tr>
                             <tr>
-                                <td class="quest_not_needed" >Slaughterhouse</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="Slaughterhouse" data-fr=""  >Slaughterhouse</td>
                                 <td class="otherQuest_symbol_clr"></td>
-                                <td>Eliminate 10 Scavs with melee weapons on Factory,Ground Zero, Streets, Lighthouse, Woods, Shoreline, Interchange, Customs, Reserve</td>
+                                <td class="lang-change-js" data-en="Eliminate 10 Scavs with melee weapons on Factory,Ground Zero, Streets, Lighthouse, Woods, Shoreline, Interchange, Customs, Reserve" data-fr=""  >Eliminate 10 Scavs with melee weapons on Factory,Ground Zero, Streets, Lighthouse, Woods, Shoreline, Interchange, Customs, Reserve</td>
                             </tr>
                             <tr>
-                                <td class="quest_not_needed" >The Stylish one</td>
+                                <td class="quest_not_needed lang-change-js "  data-en="The Stylish one" data-fr=""  >The Stylish one</td>
                                 <td class="otherQuest_symbol_clr"></td>
-                                <td>Eliminate Killa 50 times</td>
+                                <td class="lang-change-js" data-en="Eliminate Killa 50 times" data-fr=""  >Eliminate Killa 50 times</td>
                             </tr>
                             <!-- 34 -->
                             <tr>
-                                <td class="quest_not_needed_blue" >Make an Impression</td>
+                                <td class="quest_not_needed_blue lang-change-js" data-en="Make an Impression" data-fr="" >Make an Impression</td>
                                 <td class="otherQuest_symbol_clr"></td>
-                                <td>Eliminate 10 Sniper Scavs from over 350 meters away<br> 
+                                <td class="lang-change-js" data-en="Eliminate 10 Sniper Scavs from over 350 meters away<br> 
+                                    Reach the required Bolt-Action Rifles Skill level of 10" data-fr=""  >Eliminate 10 Sniper Scavs from over 350 meters away<br> 
                                     Reach the required Bolt-Action Rifles Skill level of 10</td>
                             </tr>
                             <!-- 35 -->
                             <tr>
-                                <td class="quest_not_needed_blue" >Overseas Trust Part -1</td>
+                                <td class="quest_not_needed_blue lang-change-js" data-en="Overseas Trust Part -1" data-fr="" >Overseas Trust Part -1</td>
                                 <td class="otherQuest_symbol_clr"></td>
-                                <td>Locate and eliminate Reshala 15 times<br>
-                                    Locate and eliminate Glukhar 15 times<br>
-                                    Locate and eliminate Killa 15 times<br>
-                                    Locate and eliminate Shturman 15 times<br>
-                                    Locate and eliminate Sanitar 15 times<br>
-                                    Locate and eliminate Tagilla 15 times</td>
+                                <td>
+                                   <span class="lang-change-js" data-en="Locate and eliminate Reshala 15 times" data-fr=""> Locate and eliminate Reshala 15 times </span> <br>
+                                   <span class="lang-change-js" data-en="Locate and eliminate Glukhar 15 times " data-fr=""> Locate and eliminate Glukhar 15 times </span> <br>
+                                   <span class="lang-change-js" data-en="Locate and eliminate Killa 15 times" data-fr=""> Locate and eliminate Killa 15 times </span> <br>
+                                   <span class="lang-change-js" data-en="Locate and eliminate Shturman 15 times " data-fr=""> Locate and eliminate Shturman 15 times </span> <br>
+                                   <span class="lang-change-js" data-en="Locate and eliminate Sanitar 15 times" data-fr=""> Locate and eliminate Sanitar 15 times </span> <br>
+                                   <span class="lang-change-js" data-en="Locate and eliminate Tagilla 15 times " data-fr=""> Locate and eliminate Tagilla 15 times </span> </td>
                             </tr>
                             <!-- 36 -->
                            </tbody>
@@ -432,5 +443,6 @@
         }
         //**  flash color end
     </script>
+    <script src="../js/lanChange.js"></script>
 </body>
 </html>

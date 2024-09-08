@@ -36,8 +36,8 @@
     <?php include('../home/mobilestream.php'); ?> 
 
     <div class="hideout_title text-center mt-5">
-        <h1>HIDEOUT REQUIREMENTS</h1>
-        <h3>Beta 0.13.8</h3>
+        <h1 class="lang-change-js" data-en="HIDEOUT REQUIREMENTS" data-fr="" >HIDEOUT REQUIREMENTS</h1>
+        <h3 class="lang-change-js" data-en="Beta 0.13.8" data-fr="" >Beta 0.13.8</h3>
     </div>
     <div class="hideout__play__ground">
     <?php include('./grid-cols/hide-col-one.php'); ?> 
@@ -53,6 +53,7 @@
     <?php include('../home/footer.php'); ?> 
     <!-- bootstrap js -->
     <script src="../cdn/js/bootstrap.js?v=1.6"></script>
+    <script src="../js/lanChange.js"></script>
     <script src="hideout.js?v=1.6"></script>
 </body>
 </html>

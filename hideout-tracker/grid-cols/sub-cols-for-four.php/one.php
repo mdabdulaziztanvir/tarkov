@@ -2,7 +2,7 @@
     <!-- box - 1 start -->
     <div class="border-div-hide">
         <div class="text-center my-3">
-            <h4>Flammable Materials</h4>
+            <h4 class="lang-change-js" data-en="Flammable Materials" data-fr="" >Flammable Materials</h4>
         </div>
          <!-- one line start -->
          <div class="d-flex justify-content-evenly mb-1">
@@ -88,7 +88,7 @@
     <!-- box - 2 start -->
     <div class="border-div-hide mt-3">
         <div class="text-center my-3">
-            <h4>Household Materials</h4>
+            <h4 class="lang-change-js" data-en="Household Materials" data-fr="" >Household Materials</h4>
         </div>
           <!-- one line start -->
           <div class="d-flex justify-content-evenly mb-1">
@@ -165,7 +165,7 @@
     <!-- box - 3 gear Rack start -->
     <div class="border-div-hide mt-3">
         <div class="text-center my-3">
-            <h4>Gear Rack</h4>
+            <h4 class="lang-change-js" data-en="Gear Rack" data-fr="" >Gear Rack</h4>
         </div>
          <!-- one line start -->
          <div class="d-flex justify-content-evenly mb-1">
