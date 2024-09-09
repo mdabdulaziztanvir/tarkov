@@ -44,7 +44,7 @@
           <a class="lang-change-js" data-en="Factory" data-fr="" href="../factory/">Factory</a>
           <a class="lang-change-js" data-en="Interchange" data-fr="" href="../interchange/">Interchange</a>
           <a class="lang-change-js" data-en="Labs" data-fr="" href="../labs/">Labs</a>
-          <a class="bitcoin lang-change-js" data-en="Bitcoin" data-fr="" href="../bitcoin/">Bitcoin</a>
+          <a class="active lang-change-js" data-en="Bitcoin" data-fr="" href="../bitcoin/">Bitcoin</a>
           <a class="lang-change-js" data-en="Cases Barter" data-fr="" href="../cases-barter/">Cases Barter</a>
           <a class="lang-change-js" data-en="Ammo Chart" data-fr="" href="https://www.eft-ammo.com/" target="_blank" >Ammo Chart</a>
           
