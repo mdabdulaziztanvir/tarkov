@@ -3,17 +3,17 @@
     <thead >
         <tr>
             <th></th>
-            <th>IMPORTANT!!!</th>
+            <th class="lang-change-js" data-en="IMPORTANT!!!" data-fr="" >IMPORTANT!!!</th>
         </tr>
     </thead>
     <tbody  >
         <tr>
-            <td>BITCOIN</td>
+            <td class="lang-change-js" data-en="BITCOIN" data-fr="" >BITCOIN</td>
             <td><input type="text" id="bitcoin_user_input" class="price_input_save" ></td>
         </tr>
         <tr>
             <td>LVL 1</td>
-            <td>Hours</td>
+            <td class="lang-change-js" data-en="Hours" data-fr="" >Hours</td>
         </tr>
         <tr>
             <td>1</td>
@@ -35,7 +35,7 @@
     <thead class="middle_col" >
         <tr>
             <th>LVL 2</th>
-            <th>Hours</th>
+            <th class="lang-change-js" data-en="Hours" data-fr="" >Hours</th>
         </tr>
     </thead>
     <tbody class="middle_col">
@@ -60,7 +60,7 @@
     <thead class="middle_col">
         <tr>
             <th>LVL 3</th>
-            <th>Hours</th>
+            <th class="lang-change-js" data-en="Hours" data-fr="" >Hours</th>
         </tr>
     </thead>
     <tbody class="middle_col">

@@ -41,7 +41,7 @@
           <a class="lang-change-js" data-en="Shoreline" data-fr="" href="../shoreline/">Shoreline</a>
           <a class="lang-change-js" data-en="Woods" data-fr="" href="../woods/">Woods</a>
           <a class="lang-change-js" data-en="Lighthouse" data-fr="" href="../lighthouse/">Lighthouse</a>
-          <a class="active lang-change-js" data-en="active Reserve" data-fr="" href="../reserve/">Reserve</a>
+          <a class="active lang-change-js" data-en="Reserve" data-fr="" href="../reserve/">Reserve</a>
           <a class="lang-change-js" data-en="Factory" data-fr="" href="../factory/">Factory</a>
           <a class="lang-change-js" data-en="Interchange" data-fr="" href="../interchange/">Interchange</a>
           <a class="lang-change-js" data-en="Labs" data-fr="" href="../labs/">Labs</a>

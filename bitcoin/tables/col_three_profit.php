@@ -3,19 +3,19 @@
         <tr>
             <th class="level_background">LVL 1</th>
             <th id="lvl_one_result"></th>
-            <th>Days</th>
+            <th  class="lang-change-js" data-en="Days" data-fr=""  >Days</th>
         </tr>
     </thead>
     <tbody class="middle_col">
         <tr>
             <td class="level_background">LVL 2</td>
             <td id="lvl_two_result"></td>
-            <td>Days</td>
+            <td class="lang-change-js" data-en="Days" data-fr="" >Days</td>
         </tr>
         <tr>
             <td class="level_background">LVL 3</td>
             <td id="lvl_three_result"></td>
-            <td>Days</td>
+            <td class="lang-change-js" data-en="Days" data-fr="" >Days</td>
         </tr>
     </tbody>
 </table>
@@ -23,10 +23,10 @@
 <table class="table table-dark table-bordered text-center">
     <thead class="middle_col">
         <tr>
-            <th>Built date</th>
-            <th>LVL</th>
-            <th>Days</th>
-            <th>PROFIT</th>
+            <th class="lang-change-js" data-en="Built date" data-fr="" >Built date</th>
+            <th class="lang-change-js" data-en="LVL" data-fr="" >LVL</th>
+            <th class="lang-change-js" data-en="Days" data-fr="" >Days</th>
+            <th class="lang-change-js" data-en="PROFIT" data-fr="" >PROFIT</th>
 
         </tr>
     </thead>
