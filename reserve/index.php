@@ -43,7 +43,7 @@
                 <img loading="lazy" src="./items/reserve.png?v=1.6" class=" img-fluid rounded" alt="reserve image">
                 <div class="text-end my-2">
                     <a href="./keys/">
-                    <button class="key_button" >Keys</button>
+                    <button class="key_button lang-change-js" data-en="Keys" data-fr="" >Keys</button>
                     </a>
                 </div>
 
@@ -51,159 +51,159 @@
             </div>
             <!-- 2nd col -->
             <div class="col-md-12 col-lg-3 col-xs col-sm-12  sec_col_pad">
-            <small class="not_needed_title bg-dark note_color" >[<span class="orange_bg" > ORANGE </span> = NOT needed for KAPPA]</small>
+            <small class="not_needed_title bg-dark note_color" >[<span class="orange_bg lang-change-js" data-en="ORANGE " data-fr="" > ORANGE </span> = <span class="lang-change-js" data-en="NOT needed for KAPPA" data-fr="" > NOT needed for KAPPA</span>]</small> 
             <br>
-            <small class="not_needed_title bg-dark note_color" >[<span class="blue_bg" > BLUE </span> = Lightkeeper's Quests, Not needed for Kappa]</small>
+            <small class="not_needed_title bg-dark note_color" >[<span class="blue_bg lang-change-js" data-en="BLUE" data-fr="" > BLUE </span> = <span class="lang-change-js" data-en="Lightkeeper's Quests, Not needed for Kappa" data-fr="" > Lightkeeper's Quests, Not needed for Kappa </span> ]</small>
                 <div class="factory_table">
                     <table class="table table-dark table-bordered text-center">
                         <thead>
                             <tr>
-                            <th>Quest </th>
-                            <th>Symbol</th>
-                            <th>Keys</th>
-                            <th>NOTES  </th>
+                            <th class="lang-change-js" data-en="Quest" data-fr="Quête" >Quest</th>
+                            <th class="lang-change-js" data-en="Symbol" data-fr="Symbole" >Symbol</th>
+                            <th class="lang-change-js" data-en="Keys" data-fr="Clés" >Keys</th>
+                            <th class="lang-change-js" data-en="NOTES" data-fr="NOTES" >NOTES</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="" ><a href="https://www.youtube.com/watch?v=kDzW8SiqltY&ab_channel=Affliktid" target="_blank">The Bunker - Part 1</a></td>
+                                <td><a class=" lang-change-js" data-en="The Bunker - Part 1" data-fr="" href="https://www.youtube.com/watch?v=kDzW8SiqltY&ab_channel=Affliktid" target="_blank">The Bunker - Part 1</a></td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Go into the offices underground</td>
+                                <td class=" lang-change-js" data-en="Go into the offices underground" data-fr="" >Go into the offices underground</td>
                             </tr>
                             <tr>
-                                <td class="" ><a href="https://www.youtube.com/watch?v=UgPlEs1cAzk&ab_channel=Affliktid" target="_blank">The Bunker - Part 2</a></td>
+                                <td><a class=" lang-change-js" data-en="The Bunker - Part 2" data-fr="" href="https://www.youtube.com/watch?v=UgPlEs1cAzk&ab_channel=Affliktid" target="_blank">The Bunker - Part 2</a></td>
                                 <td class="reserve_symbol_color">A</td>
                                 <td></td>
-                                <td>Go everywhere underground</td>
+                                <td class=" lang-change-js" data-en="Go everywhere underground" data-fr="" >Go everywhere underground</td>
                             </tr>
                             <tr>
-                                <td class="" ><a href="https://www.youtube.com/watch?v=reGMYg2zwCE&ab_channel=Affliktid" target="_blank">Documents</a></td>
+                                <td><a class=" lang-change-js" data-en="Documents" data-fr="" href="https://www.youtube.com/watch?v=reGMYg2zwCE&ab_channel=Affliktid" target="_blank">Documents</a></td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Watch the video</td>
+                                <td class=" lang-change-js" data-en="Watch the video" data-fr="" >Watch the video</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=ri8G4ySKgDA&ab_channel=Affliktid" target="_blank">Disease History</a></td>
+                                <td><a class=" lang-change-js" data-en="Disease History" data-fr="" href="https://www.youtube.com/watch?v=ri8G4ySKgDA&ab_channel=Affliktid" target="_blank">Disease History</a></td>
                                 <td class="reserve_symbol_color">B</td>
-                                <td>RB-KSM AND RB-SMP</td>
-                                <td>2nd floor white bishop, document between the shelfs and bottom of the bookshelf</td>
+                                <td class=" lang-change-js" data-en="RB-KSM AND RB-SMP" data-fr="" >RB-KSM AND RB-SMP</td>
+                                <td class=" lang-change-js" data-en="2nd floor white bishop, document between the shelfs and bottom of the bookshelf" data-fr="" >2nd floor white bishop, document between the shelfs and bottom of the bookshelf</td>
                             </tr>
                             <tr>
-                                <td class="" ><a href="https://www.youtube.com/watch?v=_401YeP8-2M&t=4s&ab_channel=Affliktid" target="_blank">Classified Technologies</a></td>
+                                <td><a class=" lang-change-js" data-en="Classified Technologies" data-fr="" href="https://www.youtube.com/watch?v=_401YeP8-2M&t=4s&ab_channel=Affliktid" target="_blank">Classified Technologies</a></td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Watch the video</td>
+                                <td class=" lang-change-js" data-en="Watch the video" data-fr="" >Watch the video</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=UBbMiym0TmI&t=32s&ab_channel=Affliktid" target="_blank">Revision - Reserve</a></td>
+                                <td><a class=" lang-change-js" data-en="Revision - Reserve" data-fr="" href="https://www.youtube.com/watch?v=UBbMiym0TmI&t=32s&ab_channel=Affliktid" target="_blank">Revision - Reserve</a></td>
                                 <td class="reserve_symbol_color">C</td>
                                 <td></td>
-                                <td>Mark the BMP-2 and LAV III with an MS2000, Locate 7 but mark only 5</td>
+                                <td class=" lang-change-js" data-en="Mark the BMP-2 and LAV III with an MS2000, Locate 7 but mark only 5" data-fr="" >Mark the BMP-2 and LAV III with an MS2000, Locate 7 but mark only 5</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=2K16R_4gRAU&ab_channel=Affliktid" target="_blank">Surplus Goods</a></td>
+                                <td><a class=" lang-change-js" data-en="Surplus Goods" data-fr="" href="https://www.youtube.com/watch?v=2K16R_4gRAU&ab_channel=Affliktid" target="_blank">Surplus Goods</a></td>
                                 <td class="reserve_symbol_color">D</td>
-                                <td>RB-ST</td>
-                                <td>Item inside green box</td>
+                                <td class=" lang-change-js" data-en="RB-ST" data-fr="" >RB-ST</td>
+                                <td class=" lang-change-js" data-en="Item inside green box" data-fr="" >Item inside green box</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=6EWIoO2VRlA&ab_channel=Affliktid" target="_blank">Back Door</a></td>
+                                <td><a class=" lang-change-js" data-en="Back Door" data-fr="" href="https://www.youtube.com/watch?v=6EWIoO2VRlA&ab_channel=Affliktid" target="_blank">Back Door</a></td>
                                 <td class="reserve_symbol_color">E</td>
                                 <td></td>
-                                <td>Activate Power Switch on basement, D2 Extract</td>
+                                <td class=" lang-change-js" data-en="Activate Power Switch on basement, D2 Extract" data-fr="" >Activate Power Switch on basement, D2 Extract</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=nsULadFqvVA&ab_channel=Affliktid" target="_blank">A Fuel Matter</a></td>
+                                <td><a class=" lang-change-js" data-en="A Fuel Matter" data-fr="" href="https://www.youtube.com/watch?v=nsULadFqvVA&ab_channel=Affliktid" target="_blank">A Fuel Matter</a></td>
                                 <td class="reserve_symbol_color">F</td>
                                 <td></td>
-                                <td>Mark 2 groups of fuel tanks</td>
+                                <td class=" lang-change-js" data-en="Mark 2 groups of fuel tanks" data-fr="" >Mark 2 groups of fuel tanks</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=finPRos5FvI&ab_channel=Affliktid" target="_blank">Inventory Check</a></td>
+                                <td><a class=" lang-change-js" data-en="Inventory Check" data-fr="" href="https://www.youtube.com/watch?v=finPRos5FvI&ab_channel=Affliktid" target="_blank">Inventory Check</a></td>
                                 <td class="reserve_symbol_color">G</td>
-                                <td>RB-ORB1,ORB2,ORB3,OB</td>
-                                <td>Watch the video</td>
+                                <td class=" lang-change-js" data-en="RB-ORB1,ORB2,ORB3,OB" data-fr="" >RB-ORB1,ORB2,ORB3,OB</td>
+                                <td class=" lang-change-js" data-en="Watch the video" data-fr="" >Watch the video</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=LYUJNlY9Op8&ab_channel=L%C3%A9oDaAkatsuki" target="_blank">Snatch</a></td>
+                                <td><a class=" lang-change-js" data-en="Snatch" data-fr="" href="https://www.youtube.com/watch?v=LYUJNlY9Op8&ab_channel=L%C3%A9oDaAkatsuki" target="_blank">Snatch</a></td>
                                 <td class="reserve_symbol_color">H</td>
                                 <td></td>
-                                <td>Under the assault tank track</td>
+                                <td class=" lang-change-js" data-en="Under the assault tank track" data-fr="" >Under the assault tank track</td>
                             </tr>
                             <!-- new quests added -->
 
                             <tr>
-                                <td>No Place for Renegades</td>
+                                <td class=" lang-change-js" data-en="No Place for Renegades" data-fr="" >No Place for Renegades</td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Eliminate 5 Raiders in the command bunker on Reserve</td>
+                                <td class=" lang-change-js" data-en="Eliminate 5 Raiders in the command bunker on Reserve" data-fr="" >Eliminate 5 Raiders in the command bunker on Reserve</td>
                             </tr>
 
                             <tr>
-                                <td>The Punisher - Part 2</td>
+                                <td class=" lang-change-js" data-en="The Punisher - Part 2" data-fr="" >The Punisher - Part 2</td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Eliminate 12 Scavs while using a suppressed weapon on Reserve</td>
+                                <td class=" lang-change-js" data-en="Eliminate 12 Scavs while using a suppressed weapon on Reserve" data-fr="" >Eliminate 12 Scavs while using a suppressed weapon on Reserve</td>
                             </tr>
 
                             <tr>
-                                <td>Safe Corridor</td>
+                                <td class=" lang-change-js" data-en="Safe Corridor" data-fr="" >Safe Corridor</td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Eliminate 10 Scavs in the underground warehouse on Reserve</td>
+                                <td class=" lang-change-js" data-en="Eliminate 10 Scavs in the underground warehouse on Reserve" data-fr="" >Eliminate 10 Scavs in the underground warehouse on Reserve</td>
                             </tr>
 
                             <tr>
-                                <td class="quest_not_needed">The Cleaner</td>
+                                <td class="quest_not_needed lang-change-js" data-en="The Cleaner" data-fr="">The Cleaner</td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Eliminate 40 Scav Raiders on Reserve</td>
+                                <td class=" lang-change-js" data-en="Quest" data-fr="" >Eliminate 40 Scav Raiders on Reserve</td>
                             </tr>
 
                             <tr>
-                                <td>Reserve</td>
+                                <td class=" lang-change-js" data-en="Reserve" data-fr="" >Reserve</td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Find the food storage location</td>
+                                <td class=" lang-change-js" data-en="Find the food storage location" data-fr="" >Find the food storage location</td>
                             </tr>
 
                             <tr>
-                                <td>The Huntsman Path - Eraser - Part 1</td>
+                                <td class=" lang-change-js" data-en="The Huntsman Path - Eraser - Part 1" data-fr="" >The Huntsman Path - Eraser - Part 1</td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Eliminate Glukhar</td>
+                                <td class=" lang-change-js" data-en="Eliminate Glukhar" data-fr="" >Eliminate Glukhar</td>
                             </tr>
 
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=wGCk9-udBmA&ab_channel=Affliktid" target="_blank" >Pest Control</a></td>
+                                <td><a class=" lang-change-js" data-en="Pest Control" data-fr="" href="https://www.youtube.com/watch?v=wGCk9-udBmA&ab_channel=Affliktid" target="_blank" >Pest Control</a></td>
                                 <td class="reserve_symbol_color">I</td>
                                 <td></td>
-                                <td>Eliminate 10 Scavs in the barracks area, purple zones</td>
+                                <td class=" lang-change-js" data-en="Eliminate 10 Scavs in the barracks area, purple zones" data-fr="" >Eliminate 10 Scavs in the barracks area, purple zones</td>
                             </tr>
 
                             <tr>
-                                <td class="quest_not_needed_blue"> <a href="https://www.youtube.com/watch?v=Vt5zAK2Z0I0&ab_channel=Affliktid" target="_blank" >Payback
+                                <td class="quest_not_needed_blue"> <a class=" lang-change-js" data-en="Payback" data-fr="" href="https://www.youtube.com/watch?v=Vt5zAK2Z0I0&ab_channel=Affliktid" target="_blank" >Payback
                                     </a>
                                 </td>
                                 <td class="reserve_symbol_color"></td>
                                 <td></td>
-                                <td>Kill Glukhar+ 6 guards, <br>
+                                <td class=" lang-change-js" data-en="Kill Glukhar+ 6 guards," data-fr="" >Kill Glukhar+ 6 guards, <br>
                                 Shoot a yellow signal flare at the radar station <br>
                                 Survive and extract through Cliff Descent </td>
                             </tr>
                             
                             <tr>
-                                <td>A Shooter Born in Heaven</td>
+                                <td class=" lang-change-js" data-en="A Shooter Born in Heaven" data-fr="" >A Shooter Born in Heaven</td>
                                 <td class="reserve_symbol_color"></td> 
                                 <td></td>
-                                <td>Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Reserve</td>
+                                <td class=" lang-change-js" data-en="Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Reserve" data-fr="" >Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Reserve</td>
                             </tr>
                             <tr>
-                                <td>Special comms</td>
+                                <td class=" lang-change-js" data-en="Special comms" data-fr="" >Special comms</td>
                                 <td class="woods_symbol_color" >J</td>
                                 <td></td>
-                                <td>No need to be in marathon mode, Bring 2x Bublex and 2x Military cable, place them on the wood box</td>
+                                <td class=" lang-change-js" data-en="No need to be in marathon mode, Bring 2x Bublex and 2x Military cable, place them on the wood box" data-fr="" >No need to be in marathon mode, Bring 2x Bublex and 2x Military cable, place them on the wood box</td>
                             </tr>
 
                         </tbody>
@@ -319,5 +319,6 @@
         }
         //**  flash color end
     </script>
+    <script src="../js/lanChange.js"></script>
 </body>
 </html>

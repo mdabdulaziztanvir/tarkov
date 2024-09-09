@@ -33,7 +33,7 @@
         <div class="nav_links d-flex flex-column gap-3 align-items-start ms-1">
           <a class="lang-change-js" data-en="Items Tracker" data-fr="" href="/">Items Tracker</a>
           <a class="lang-change-js" data-en="Hideout Tracker" data-fr="" href="../hideout-tracker/">Hideout Tracker</a>
-          <a class="lang-change-js" data-en="Other Quests" data-fr="" href="../other-quests/" class="active" >Other Quests</a>
+          <a class="active lang-change-js" data-en="Other Quests" data-fr="" href="../other-quests/"  >Other Quests</a>
           <a class="lang-change-js" data-en="Ground Zero" data-fr="" href="../ground-zero/"  >Ground Zero</a>
           <a class="lang-change-js" data-en="Street" data-fr="" href="../streets/">Street</a>
           <a class="lang-change-js" data-en="Customs" data-fr="" href="../custom/">Customs</a>

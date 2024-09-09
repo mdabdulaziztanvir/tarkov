@@ -42,5 +42,6 @@
 <script src="../../cdn/js/bootstrap.js?v=1.6"></script>
     <!-- js -->
     <script src="../lighthouse.js?v=1.6"></script>
+    <script src="../../js/lanChange.js"></script>
 </body>
 </html>

@@ -12,7 +12,7 @@
   <div class="menu_bottom_border text-center "></div>
   <div class="offcanvas-body">
       <div class="nav_links d-flex flex-column gap-3 align-items-start ms-1">
-        <a class="lang-change-js" data-en="Items Tracker" data-fr="" href="/" class="active">Items Tracker</a>
+        <a class="active lang-change-js" data-en="Items Tracker" data-fr="" href="/" >Items Tracker</a>
         <a class="lang-change-js" data-en="Hideout Tracker" data-fr="" href="./hideout-tracker/">Hideout Tracker</a>
         <a class="lang-change-js" data-en="Other Quests" data-fr="" href="./other-quests/">Other Quests</a>
         <a class="lang-change-js" data-en="Ground Zero" data-fr="" href="./ground-zero/">Ground Zero</a>
@@ -23,7 +23,7 @@
         <a class="lang-change-js" data-en="Lighthouse" data-fr="" href="./lighthouse/">Lighthouse</a>
         <a class="lang-change-js" data-en="Reserve" data-fr="" href="./reserve/">Reserve</a>
         <a class="lang-change-js" data-en="Factory" data-fr="" href="./factory/">Factory</a>
-        <a class="lang-change-js" data-en="QInterchangeuest" data-fr="" href="./interchange/">Interchange</a>
+        <a class="lang-change-js" data-en="Interchangeuest" data-fr="" href="./interchange/">Interchange</a>
         <a class="lang-change-js" data-en="Labs" data-fr="" href="./labs/">Labs</a>
         <a class="lang-change-js" data-en="Bitcoin" data-fr="" href="./bitcoin/">Bitcoin</a>
         <a class="lang-change-js" data-en="Cases Barter" data-fr="" href="./cases-barter/">Cases Barter</a>

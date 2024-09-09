@@ -38,7 +38,7 @@
           <a class="lang-change-js" data-en="Items Tracker" data-fr="" href="/">Items Tracker</a>
           <a class="lang-change-js" data-en="Hideout Tracker" data-fr="" href="../hideout-tracker/">Hideout Tracker</a>
           <a class="lang-change-js" data-en="Other Quests" data-fr="" href="../other-quests/">Other Quests</a>
-          <a class="lang-change-js" data-en="Ground Zero" data-fr="" href="../ground-zero/" class="active" >Ground Zero</a>
+          <a class="active lang-change-js" data-en="Ground Zero" data-fr="" href="../ground-zero/" >Ground Zero</a>
           <a class="lang-change-js" data-en="Street" data-fr="" href="../streets/">Street</a>
           <a class="lang-change-js" data-en="Customs" data-fr="" href="../custom/">Customs</a>
           <a class="lang-change-js" data-en="Shoreline" data-fr="" href="../shoreline/">Shoreline</a>
